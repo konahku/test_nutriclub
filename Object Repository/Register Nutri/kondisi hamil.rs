@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>kondisi hamil</name>
+   <tag></tag>
+   <elementGuidId>2a08ede5-0c7d-4ee8-8d6a-9ea8b6ea5b4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='motherCondition']/div/div/div/div[2]/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e13854d4-3dba-46c1-8ecd-3123a3bc6adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content__stage-mark</value>
+      <webElementGuid>a10de7d7-36a0-472b-bf91-1c12f55072b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;motherCondition&quot;)/div[@class=&quot;content__card rounded content__input shadow --show-bg-card&quot;]/div[@class=&quot;content__card-text text-center&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-6 col-md-3&quot;]/label[@class=&quot;content__stage&quot;]/div[@class=&quot;content__stage-mark&quot;]</value>
+      <webElementGuid>48a861d2-b727-4736-9939-2f82e921b5e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='motherCondition']/div/div/div/div[2]/label/div</value>
+      <webElementGuid>eb9c006d-7392-48b6-98b9-c13891dc7fd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/div</value>
+      <webElementGuid>82d7b7a0-80cb-4207-af03-b532a03be1a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
