@@ -24,28 +24,46 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://nutriclub.eydendigital.co.id/account/register')
 
-WebUI.setText(findTestObject('Register Nutri/input_Nama Lengkap_Fullname'), 'Testing sdk')
+WebUI.setText(findTestObject('Object Repository/Register SGM/input_Nama Lengkap_Fullname'), 'Testing sdk')
 
 // Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
-WebUI.setText(findTestObject('Register Nutri/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), randomNum)
+WebUI.setText(findTestObject('Object Repository/Register SGM/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), 
+    randomNum)
 
-WebUI.setEncryptedText(findTestObject('Register Nutri/input_Password_member_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Register SGM/input_Password_member_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.setEncryptedText(findTestObject('Register Nutri/input_Konfirmasi Password_ConfirmPassword'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Register SGM/input_Konfirmasi Password_ConfirmPassword'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.click(findTestObject('Register Nutri/kondisi belum hamil'))
+WebUI.click(findTestObject('Object Repository/Register SGM/kondisi belum hamil'))
 
-WebUI.click(findTestObject('Register Nutri/checked sk'))
+WebUI.click(findTestObject('Object Repository/Register SGM/input_Kode Refereal  Kode Event (opsional)_Agreement'))
 
-WebUI.click(findTestObject('Register Nutri/button_DAFTAR'))
+WebUI.click(findTestObject('Object Repository/Register SGM/button_DAFTAR'))
 
 String generateRandomNumber() {
     Random random = new Random()
 
     String lastNineDigits = String.format('%09d', random.nextInt(1000000000))
 
-    String randomNumber = '0812' + lastNineDigits
+    String randomNumber = '0895' + lastNineDigits
 
     return randomNumber
 }
+
+////SGM Register
+//WebUI.openBrowser('')
+//
+//WebUI.navigateToUrl('https://generasi.eydendigital.co.id/klub-generasi-maju/register')
+//
+//WebUI.click(findTestObject('Object Repository/Register SGM/button_SAYA SETUJU'))
+//
+//WebUI.scrollToPosition(10, 500)
+//
+//WebUI.click(findTestObject('Object Repository/Register SGM/div_Kondisi Bunda'))
+//
+//WebUI.delay(2)
+//
+//WebUI.click(findTestObject('Object Repository/Register SGM/div_Belum Hamil'))
+//
+//WebUI.click(findTestObject('Object Repository/Register SGM/input_Saya telah membacadan_sayasetuju'))
 

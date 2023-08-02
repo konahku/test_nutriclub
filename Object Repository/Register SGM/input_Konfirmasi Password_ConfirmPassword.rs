@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Kode Refereal  Kode Event (opsional)_Agreement</name>
+   <name>input_Konfirmasi Password_ConfirmPassword</name>
    <tag></tag>
-   <elementGuidId>fc6b13a5-7ddf-4d00-accd-dfe30fb02562</elementGuidId>
+   <elementGuidId>037dfc9b-2d98-43ac-b2de-30f06cb4e798</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#agreementPrivacy</value>
+         <key>XPATH</key>
+         <value>//input[@id='confirmPassword']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='agreementPrivacy']</value>
+         <key>CSS</key>
+         <value>#confirmPassword</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7c3c0284-5697-4b1f-af79-1954100830ce</webElementGuid>
+      <webElementGuid>f33844bc-2cc2-4e89-9283-d705543e1376</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>3e0927cb-0f83-43af-b02b-3d275ed54269</webElementGuid>
+      <value>password</value>
+      <webElementGuid>918331d2-b55d-4b7c-9fed-73d0b37c9dd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>Agreement</value>
-      <webElementGuid>1cf52b48-71f7-4840-a390-e19980984a79</webElementGuid>
+      <value>ConfirmPassword</value>
+      <webElementGuid>4bc753b3-275c-4fb8-a1d2-0791506682c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>agreementPrivacy</value>
-      <webElementGuid>7a272c18-516f-417f-a176-a39dcae35296</webElementGuid>
+      <value>confirmPassword</value>
+      <webElementGuid>7e46710f-4f60-465c-ab6f-6a869aea73ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-check-input p-0</value>
-      <webElementGuid>70954134-5612-4ac6-b183-144b7b4bab82</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>0cfebbd5-d319-4504-b14f-8405f8b3102f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Konfirmasi Password</value>
+      <webElementGuid>05189884-26f2-4fae-bc58-52d835723f74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;agreementPrivacy&quot;)</value>
-      <webElementGuid>a8e9c9a7-3a0f-458b-a96e-d47a7ae42772</webElementGuid>
+      <value>id(&quot;confirmPassword&quot;)</value>
+      <webElementGuid>06e0c5a2-b086-4d5e-a406-7b83b05bc23e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='agreementPrivacy']</value>
-      <webElementGuid>8164216b-a5fa-4169-aad9-ae0505209e3f</webElementGuid>
+      <value>//input[@id='confirmPassword']</value>
+      <webElementGuid>9e294bc2-a13f-4a46-98f6-96ee2c184926</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div/div/input</value>
-      <webElementGuid>53d8328f-dc19-4492-a976-4ac5b781f53f</webElementGuid>
+      <value>//div[4]/div/input</value>
+      <webElementGuid>d338e794-959b-494c-a499-b338915c767c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @name = 'Agreement' and @id = 'agreementPrivacy']</value>
-      <webElementGuid>0930b273-d38b-4f6e-bb8d-f290331e838d</webElementGuid>
+      <value>//input[@type = 'password' and @name = 'ConfirmPassword' and @id = 'confirmPassword' and @placeholder = 'Konfirmasi Password']</value>
+      <webElementGuid>0ea7bc1b-6726-4c06-b138-dea5f11b70cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

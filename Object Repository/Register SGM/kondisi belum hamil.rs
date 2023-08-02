@@ -3,8 +3,7 @@
    <description></description>
    <name>kondisi belum hamil</name>
    <tag></tag>
-   <elementGuidId>f1776883-54b6-4bcc-a39b-320b391c8758</elementGuidId>
-   <imagePath></imagePath>
+   <elementGuidId>16ce46a1-10cb-48ab-a668-04235f046917</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -14,16 +13,8 @@
          <key>CSS</key>
          <value>div.content__stage-mark</value>
       </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;motherCondition&quot;)/div[@class=&quot;content__card rounded content__input shadow --show-bg-card&quot;]/div[@class=&quot;content__card-text text-center&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-6 col-md-3&quot;]/label[@class=&quot;content__stage&quot;]/div[@class=&quot;content__stage-mark&quot;]</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>181e8877-c312-470b-8636-cb1e37f2daa1</webElementGuid>
+      <webElementGuid>01091969-9420-494a-a544-2f0a93c900ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>content__stage-mark</value>
-      <webElementGuid>ea655d1a-71ef-4291-8d7e-72de5d74baab</webElementGuid>
+      <webElementGuid>084bad91-21d7-481e-8a51-492d00d71272</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;motherCondition&quot;)/div[@class=&quot;content__card rounded content__input shadow --show-bg-card&quot;]/div[@class=&quot;content__card-text text-center&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-6 col-md-3&quot;]/label[@class=&quot;content__stage&quot;]/div[@class=&quot;content__stage-mark&quot;]</value>
-      <webElementGuid>27c7017b-ef00-4952-964c-450d84e4ce02</webElementGuid>
+      <webElementGuid>3d088ce2-43e3-4180-a2d4-3c6f6eed5a4d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='motherCondition']/div/div/div/div/label/div</value>
-      <webElementGuid>a9a15879-7b04-4935-96df-17d9faf66d45</webElementGuid>
+      <webElementGuid>77c3cf45-4a10-4e23-b316-fff21d560d2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/div</value>
-      <webElementGuid>052169d7-c18d-42ec-8a68-80f43de7fc75</webElementGuid>
+      <webElementGuid>bfe73c12-a2da-4e43-a516-e6c549e27565</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -35,7 +35,7 @@ WebUI.setEncryptedText(findTestObject('Register Nutri/input_Konfirmasi Password_
 
 WebUI.click(findTestObject('Register Nutri/kondisi belum hamil'))
 
-WebUI.click(findTestObject('Register Nutri/input_Kode Refereal  Kode Event (opsional)_Agreement'))
+WebUI.click(findTestObject('Register Nutri/checked sk'))
 
 WebUI.click(findTestObject('Register Nutri/button_DAFTAR'))
 

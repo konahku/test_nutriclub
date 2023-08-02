@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sedang Hamil</name>
+   <tag></tag>
+   <elementGuidId>52522ab4-e9d9-4761-ba96-1025a77ccb31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='registerkgm']/div/div[4]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.show-kondisi__all</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2671db3-0d47-4a5b-9a31-025c4af718ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>show-kondisi__all</value>
+      <webElementGuid>305e6d0e-a836-4e49-878c-1b2072406fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pregnant</name>
+      <type>Main</type>
+      <value>Y</value>
+      <webElementGuid>582ae9d6-393d-4f0c-9df7-7a8eb5e72ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-child</name>
+      <type>Main</type>
+      <value>N</value>
+      <webElementGuid>b769e4e3-5a05-4635-ac8f-17a8655c2d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sedang Hamil</value>
+      <webElementGuid>5ae26a9a-79eb-4858-8dfa-0b742a5cafce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;registerkgm&quot;)/div[@class=&quot;register-form&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;show-kondisi show&quot;]/div[@class=&quot;show-kondisi__all&quot;]</value>
+      <webElementGuid>219d47b3-75b9-4408-83bc-e95681fc970a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='registerkgm']/div/div[4]/div[2]/div</value>
+      <webElementGuid>78e24946-bdb1-4bda-8d17-f035125b6773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kondisi Bunda'])[1]/following::div[2]</value>
+      <webElementGuid>f1f1a052-8514-4232-a207-c15e009e135e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kondisi Bunda (Kehamilan dan Anak)'])[1]/following::div[3]</value>
+      <webElementGuid>320c4630-548f-4214-9327-2c73226ce6f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sedang Hamil dan Memiliki Anak'])[1]/preceding::div[1]</value>
+      <webElementGuid>d8782ddf-af10-4c13-bac7-c9cb4a2742ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Hamil'])[1]/preceding::div[2]</value>
+      <webElementGuid>073c4b50-f4fb-493b-8d1c-efa1a47859eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sedang Hamil']/parent::*</value>
+      <webElementGuid>f6d0b261-75a0-4067-8ae3-8f7e32085c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>c01adeb2-84eb-4d1c-b582-0ea2546f67eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sedang Hamil' or . = 'Sedang Hamil')]</value>
+      <webElementGuid>b5f4752a-353f-4c7b-91d7-4dfdfbdb6289</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

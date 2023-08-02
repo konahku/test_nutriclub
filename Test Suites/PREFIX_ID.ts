@@ -253,7 +253,7 @@
       <guid>8982f776-c6d2-4e3a-ae8d-870750b93cd7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/PREFIX ID/0895 TRI</testCaseId>
+      <testCaseId>Test Cases/PREFIX ID/0895 TRI plus kondisi bunda SGM</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
