@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tanggal Lahir Anak_isRefferalCodeEventCode</name>
+   <tag></tag>
+   <elementGuidId>f9a54f5b-6936-4b38-92e1-2c432bd6b839</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='isRefferalCodeEventCode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;isRefferalCodeEventCode&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3045ce15-bdb0-4c06-b083-ceb3671ab94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>e27768b1-c4f2-42d1-bb05-355a6e690e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-input is_code_refferal_event_code</value>
+      <webElementGuid>2ea628a0-dbc7-4cbf-95ad-15d0d8c59390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>isRefferalCodeEventCode</value>
+      <webElementGuid>186afb6b-8780-481f-956c-241f9b58dd00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>refferalcode</value>
+      <webElementGuid>c33ff208-9430-4d3c-9434-14dce51f32da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/form[@class=&quot;registration recaptcha-form&quot;]/div[@class=&quot;content justify-content-center&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-12 col-md-8&quot;]/div[@class=&quot;registration__form&quot;]/div[@class=&quot;registration__content mb-4&quot;]/div[@class=&quot;content__card rounded shadow --show-bg-card my-3 px-4&quot;]/div[@class=&quot;content__input&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 form-check&quot;]/input[@class=&quot;form-check-input is_code_refferal_event_code&quot;]</value>
+      <webElementGuid>d9acadba-1a3d-473b-958d-770409561cfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='isRefferalCodeEventCode']</value>
+      <webElementGuid>0f56362d-03cc-43ba-80f2-416e74d515c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Lahir Anak'])[1]/following::input[3]</value>
+      <webElementGuid>e834c0b1-39a3-403d-a012-909b12f39c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usia Kehamilan (Minggu)'])[1]/following::input[4]</value>
+      <webElementGuid>7a0f04ec-af98-4fca-9e61-e2f41f8d3176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Referal'])[1]/preceding::input[1]</value>
+      <webElementGuid>3eb5b535-1ba9-4c8c-b0ab-cb7938781d60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode Event'])[1]/preceding::input[2]</value>
+      <webElementGuid>00a34fce-2402-4fc9-acb3-e06c11199c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/input</value>
+      <webElementGuid>4b8c0302-a076-4df4-bfc6-fcb5226fdca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @name = 'isRefferalCodeEventCode']</value>
+      <webElementGuid>d1d51d2a-e7e8-4b35-a606-bc9b30d0c44f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

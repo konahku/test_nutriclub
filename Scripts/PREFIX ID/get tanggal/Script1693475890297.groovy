@@ -17,41 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-// Isi field dalam form dengan angka acak
-String randomNum = generateRandomNumber()
-
 WebUI.openBrowser('')
-
-WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://nutriclub.eydendigital.co.id/account/register')
 
-WebUI.click(findTestObject('Register Nutri/button_Saya Setuju'))
-
-WebUI.setText(findTestObject('Register Nutri/input_Nama Lengkap_Fullname'), 'Testing sdk')
-
-// Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
-WebUI.setText(findTestObject('Register Nutri/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), randomNum)
-
-WebUI.setEncryptedText(findTestObject('Register Nutri/input_Password_member_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-WebUI.setEncryptedText(findTestObject('Register Nutri/input_Konfirmasi Password_ConfirmPassword'), 'iFGeFYmXIrUhQZHvW7P22w==')
-
-//WebUI.click(findTestObject('Register Nutri/kondisi belum hamil'))
 WebUI.click(findTestObject('Object Repository/Register Nutri/label_Tidak Hamil dan Mempunyai Anak'))
 
-WebUI.click(findTestObject('Register Nutri/input_Tanggal Lahir Anak_isRefferalCodeEventCode')) //WebUI.click(findTestObject('Register Nutri/button_DAFTAR'))
+WebUI.click(findTestObject('Object Repository/Register Nutri/input_Tanggal Lahir Anak_dp1693475946926'))
 
-//WebUI.setText(findTestObject('Register Nutri/input_Kode Referal (opsional)_refferalCodeEventCode'), 'BEL72373')
+WebUI.selectOptionByValue(findTestObject('Object Repository/Register Nutri/select_JanFebMarAprMayJunJulAug'), '4', true)
 
-WebUI.click(findTestObject('Register Nutri/checked sk'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Register Nutri/select_197019711972197319741975197619771978_6a9d5b'), 
+    '2022', true)
 
-String generateRandomNumber() {
-    Random random = new Random()
+WebUI.click(findTestObject('Object Repository/Register Nutri/a_1'))
 
-    String lastNineDigits = String.format('%09d', random.nextInt(1000000000))
+WebUI.closeBrowser()
 
-    String randomNumber = '0811' + lastNineDigits
-
-    return randomNumber
-}
