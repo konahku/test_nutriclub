@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nama Lengkap_Fullname</name>
+   <name>input_Kondisi Mama saat ini_parent-status</name>
    <tag></tag>
-   <elementGuidId>51af87cf-b0c3-490f-902d-f61382865536</elementGuidId>
+   <elementGuidId>e340543c-1287-465e-b16e-f21f963909d4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='fullname']</value>
+         <value>//input[@id='parent-status']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#fullname</value>
+         <value>#parent-status</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>56ce7531-cbbc-4284-beb2-60327a6f5026</webElementGuid>
+      <webElementGuid>6f883bad-c23c-4f94-b2c6-5ba8b620d18a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-input</value>
+      <webElementGuid>bda65bed-c9c3-499e-bc1e-9d0102852463</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,70 +38,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6f094814-49f4-42a2-a718-7e34ea913a8a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>Fullname</value>
-      <webElementGuid>51c7dfd2-9e33-4594-9bcf-8bfe3243fbf7</webElementGuid>
+      <webElementGuid>c0743097-3eac-4946-b389-0d3aa0649169</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>fullname</value>
-      <webElementGuid>39e7afe5-8bba-4754-83f0-f433f4ef3e15</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control mb-2</value>
-      <webElementGuid>e54ee8cc-7d11-4aa3-9fdb-8e13f5076371</webElementGuid>
+      <value>parent-status</value>
+      <webElementGuid>07a276ff-c382-42b4-b807-1dd8c132fadf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Jawaban</value>
-      <webElementGuid>2eb4d759-cb7b-4541-9e7f-8f44ed117089</webElementGuid>
+      <value>Pilih Kondisi Mama</value>
+      <webElementGuid>5da758a0-0a5a-4ec0-9470-e63ebedcbd41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;fullname&quot;)</value>
-      <webElementGuid>a8c93c99-03ff-4e91-8d02-9c881206d8ba</webElementGuid>
+      <value>id(&quot;parent-status&quot;)</value>
+      <webElementGuid>e82516c5-2861-4276-a159-39f65c5ea674</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='fullname']</value>
-      <webElementGuid>77463bd3-4aec-4a7b-a28c-a465c7891781</webElementGuid>
+      <value>//input[@id='parent-status']</value>
+      <webElementGuid>d66bfe84-6c25-4a83-92b1-c76840a5d256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='motherCondition']/div/div/input[2]</value>
+      <webElementGuid>e9ef706b-b9d1-4ad0-b37e-63ad0fd5a66d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/input[2]</value>
-      <webElementGuid>eba5d3f3-5d02-499d-b5b9-4c3a23080a82</webElementGuid>
+      <value>//div[4]/div/div/input[2]</value>
+      <webElementGuid>764d0bed-0198-457e-94be-e391de9adf3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'Fullname' and @id = 'fullname' and @placeholder = 'Jawaban']</value>
-      <webElementGuid>420f263f-72cf-43cb-bdd1-405d98605273</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'parent-status' and @placeholder = 'Pilih Kondisi Mama']</value>
+      <webElementGuid>e67e129b-23d9-41d1-8df1-7ddb85f70765</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>ba300786-8167-45f4-8d66-67e396966741</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#phone</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='phone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#phone</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c0a3091d-a8aa-422a-a2d3-9d107e859588</webElementGuid>
+      <webElementGuid>5be2ce9e-cd69-46bd-8637-59153a327aac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>db618ea9-785d-4b7d-b3e0-6194e9875595</webElementGuid>
+      <value>number</value>
+      <webElementGuid>0a587b81-435d-4bd7-8a72-c8b113294b8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>member_mobilephone</value>
-      <webElementGuid>37a0dea3-2e04-4aed-a036-c09787e51d52</webElementGuid>
+      <webElementGuid>75688bd8-e93d-42ed-b86f-9632fa960239</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>phone</value>
-      <webElementGuid>8525163d-0022-40bb-a6ca-f75dbaed219e</webElementGuid>
+      <webElementGuid>08946b58-3916-40ed-a3e6-1540ac16ee85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control mb-4</value>
-      <webElementGuid>f51a4711-6533-4273-822a-4af9f399ec54</webElementGuid>
+      <webElementGuid>106290b7-9fcf-441a-a907-95ff1c6f81da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Jawaban</value>
-      <webElementGuid>ee16e342-a8b7-40a8-94d4-b2dd51a0f01e</webElementGuid>
+      <webElementGuid>09b5e7c0-2614-4a04-9b3f-22684863f93c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>pattern</name>
       <type>Main</type>
       <value>\d*</value>
-      <webElementGuid>5eaf0014-0240-4d7d-86c8-994b4359dd7e</webElementGuid>
+      <webElementGuid>315201d6-d806-43eb-9864-d99d40a85bd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;phone&quot;)</value>
-      <webElementGuid>e42c3526-d3ff-4e3d-8e61-7a6602fe29f8</webElementGuid>
+      <webElementGuid>b70ff606-b405-4aa5-8fe3-be306caeadec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='phone']</value>
-      <webElementGuid>1c60a9b4-eb19-433a-adfc-2ffe9603b340</webElementGuid>
+      <webElementGuid>216f9d12-f0d0-4be1-84e9-df687d92c467</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>f3266060-367d-4c6c-9e7f-5678ebde573f</webElementGuid>
+      <webElementGuid>b796c2e9-1f6f-4f71-9fd9-b9ac1943fb6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @name = 'member_mobilephone' and @id = 'phone' and @placeholder = 'Jawaban']</value>
+      <webElementGuid>73721991-7483-42f8-8c33-065c39d47aa3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>76174c26-8055-45a2-a35b-47d11c6a0f42</webElementGuid>
+      <webElementGuid>a870397e-845b-48b0-8628-fbbd4b18c1c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5ae72d99-d28e-4898-bf66-e823ee394a73</webElementGuid>
+      <webElementGuid>b3ad81ef-e64a-422e-9664-cd7436529e3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>refferalCodeEventCode</value>
-      <webElementGuid>1ddb24c7-d6b4-49a4-bba1-f07091c89a7b</webElementGuid>
+      <webElementGuid>b16fd71d-90f7-4eb7-b61c-4d1c1014a033</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>refferalCodeEventCode</value>
-      <webElementGuid>1588edd4-ca09-4f66-8b93-90cd48930eef</webElementGuid>
+      <webElementGuid>a11c9a57-812a-490e-b950-6cdb53c94eec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>75ef7bd3-855e-4aea-8b58-3c196ab3a46f</webElementGuid>
+      <webElementGuid>32948c87-41df-4e42-a587-da5c9cad559c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan Kode Referal Teman Anda Disini</value>
-      <webElementGuid>945ced70-8f3f-4ffe-9a5b-82f659115b18</webElementGuid>
+      <webElementGuid>1e767ec5-c98b-463d-b142-294ed4b68396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;refferalCodeEventCode&quot;)</value>
-      <webElementGuid>45ca8200-3e75-42e6-9d67-70a4b339ccec</webElementGuid>
+      <webElementGuid>96c2d06b-acae-4af9-86fa-13ec00f39f40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='refferalCodeEventCode']</value>
-      <webElementGuid>2738fee6-d12c-4918-87b3-78d6ceccf939</webElementGuid>
+      <webElementGuid>57c2e57d-b454-4474-93ac-3ae718d58431</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='refferalCodeEventCode_area']/input</value>
-      <webElementGuid>a9a35e5b-5ca4-47b4-83b4-235e7616d72f</webElementGuid>
+      <webElementGuid>45289b90-3349-4a05-9ef0-7fbdfad29cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/input</value>
+      <webElementGuid>4c75b4e3-7fc9-4a9f-8ff7-7e9143811415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'refferalCodeEventCode' and @id = 'refferalCodeEventCode' and @placeholder = 'Masukkan Kode Referal Teman Anda Disini']</value>
+      <webElementGuid>4247d0f3-43ce-4b4f-a9db-5aad40411e4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,13 +135,5 @@
       <type>Main</type>
       <value>//div[5]/div/div[2]/input</value>
       <webElementGuid>3fff2fd2-9ca9-4a60-95cd-d399a7c7a570</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'refferalCodeEventCode' and @id = 'refferalCodeEventCode' and @placeholder = 'Masukkan Kode Referal Teman Anda Disini']</value>
-      <webElementGuid>f20631c9-8860-4013-832f-955aa483e2ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

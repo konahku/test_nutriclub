@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1f2f2f74-36a2-4a25-bd2b-afbe5a1d0809</webElementGuid>
+      <webElementGuid>54f541cb-3e45-4c3e-9faa-151e31c1c82d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>footer__notfication-btn btn btn-primary p-2</value>
-      <webElementGuid>e5abb5cf-9eb7-4cfc-9c8b-a5bc88fc59be</webElementGuid>
+      <webElementGuid>ca3dfd9e-2fb8-46e3-aaa6-a4430ba6b58e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,17 +38,17 @@
       <name>text</name>
       <type>Main</type>
       <value>
-                        Saya Setuju
-                    </value>
-      <webElementGuid>590b950a-bebe-4851-a588-7dee3d1e80b1</webElementGuid>
+                    Saya Setuju
+                </value>
+      <webElementGuid>8123c162-3ae9-47ff-b64a-9c7a47ddb045</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;footer__notification active&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 text-center align-self-center&quot;]/button[@class=&quot;footer__notfication-btn btn btn-primary p-2&quot;]</value>
-      <webElementGuid>61582f07-8106-4279-8be1-50c564292955</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;footer__notification active&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 text-center align-self-center&quot;]/button[@class=&quot;footer__notfication-btn btn btn-primary p-2&quot;]</value>
+      <webElementGuid>d58ac12a-7f43-47f7-b859-e226713e990e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelajari lebih lanjut'])[1]/following::button[1]</value>
-      <webElementGuid>9064faae-4e57-4688-996c-cce7efba674d</webElementGuid>
+      <webElementGuid>7e7d1b5e-f817-487f-ac54-7a0a17434dba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='cookies'])[1]/following::button[1]</value>
-      <webElementGuid>88625fe6-1663-4378-a335-7ce75f50a905</webElementGuid>
+      <webElementGuid>9a5f7848-6245-4646-a94e-c92157705b7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Asi terbaik bagi bayi'])[1]/preceding::button[1]</value>
-      <webElementGuid>66d86ac1-341f-4e5e-86c1-5a09fa8056f5</webElementGuid>
+      <webElementGuid>03c5e93a-842c-49ed-b639-4fa9945ae750</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Nutricia'])[1]/preceding::button[2]</value>
-      <webElementGuid>ed9d65a3-27c0-4d24-a960-dda4bca8fdd5</webElementGuid>
+      <webElementGuid>140f86ad-b25d-4e09-b834-5e2eae070215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,27 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Saya Setuju']/parent::*</value>
-      <webElementGuid>6b59865d-a062-431e-ab36-7401cdd55461</webElementGuid>
+      <webElementGuid>67d8a298-fa86-45a3-98c0-b1add8e6ddfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div/div/div[2]/button</value>
+      <webElementGuid>aba66c9c-9904-42b4-90b6-d271c6e8fd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                    Saya Setuju
+                ' or . = '
+                    Saya Setuju
+                ')]</value>
+      <webElementGuid>a8ad5423-6a55-43d5-95a0-daaa24c590bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

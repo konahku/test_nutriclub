@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3045ce15-bdb0-4c06-b083-ceb3671ab94f</webElementGuid>
+      <webElementGuid>0fd06582-0d59-476e-a11a-6b3d14457066</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>e27768b1-c4f2-42d1-bb05-355a6e690e28</webElementGuid>
+      <webElementGuid>569673e2-d8c6-4f9f-bfcb-f9c928c3f668</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input is_code_refferal_event_code</value>
-      <webElementGuid>2ea628a0-dbc7-4cbf-95ad-15d0d8c59390</webElementGuid>
+      <webElementGuid>6adf0312-ff0c-478e-bfc0-d100968b41da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>isRefferalCodeEventCode</value>
-      <webElementGuid>186afb6b-8780-481f-956c-241f9b58dd00</webElementGuid>
+      <webElementGuid>3e807f9b-8ac6-48ef-9506-cd2ea9afb362</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>value</name>
       <type>Main</type>
       <value>refferalcode</value>
-      <webElementGuid>c33ff208-9430-4d3c-9434-14dce51f32da</webElementGuid>
+      <webElementGuid>7a58d50c-ca53-4380-bb35-6c4c5a4eff7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/main[1]/form[@class=&quot;registration recaptcha-form&quot;]/div[@class=&quot;content justify-content-center&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-12 col-md-8&quot;]/div[@class=&quot;registration__form&quot;]/div[@class=&quot;registration__content mb-4&quot;]/div[@class=&quot;content__card rounded shadow --show-bg-card my-3 px-4&quot;]/div[@class=&quot;content__input&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 form-check&quot;]/input[@class=&quot;form-check-input is_code_refferal_event_code&quot;]</value>
-      <webElementGuid>d9acadba-1a3d-473b-958d-770409561cfd</webElementGuid>
+      <value>/html[1]/body[1]/main[1]/form[@class=&quot;registration recaptcha-form&quot;]/div[@class=&quot;content justify-content-center register&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-12 col-md-8&quot;]/div[@class=&quot;registration__form&quot;]/div[@class=&quot;registration__content mb-4&quot;]/div[@class=&quot;content__card rounded shadow --show-bg-card my-3 px-4&quot;]/div[@class=&quot;content__input referal-event&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 form-check&quot;]/input[@class=&quot;form-check-input is_code_refferal_event_code&quot;]</value>
+      <webElementGuid>f998bc75-613a-415f-8215-f6c752b2e459</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='isRefferalCodeEventCode']</value>
-      <webElementGuid>0f56362d-03cc-43ba-80f2-416e74d515c9</webElementGuid>
+      <webElementGuid>251f75dc-e6cf-43bf-ac5c-a9c2782412e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/input</value>
+      <webElementGuid>76535015-076f-449f-98a3-e4bf442a648f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @name = 'isRefferalCodeEventCode']</value>
+      <webElementGuid>d359bdb0-7c99-4225-9259-725c18f917dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,13 +127,5 @@
       <type>Main</type>
       <value>//div[5]/div/div/div/div/input</value>
       <webElementGuid>4b8c0302-a076-4df4-bfc6-fcb5226fdca5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'radio' and @name = 'isRefferalCodeEventCode']</value>
-      <webElementGuid>d1d51d2a-e7e8-4b35-a606-bc9b30d0c44f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

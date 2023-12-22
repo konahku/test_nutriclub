@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7c3c0284-5697-4b1f-af79-1954100830ce</webElementGuid>
+      <webElementGuid>d9a5095d-c7a3-4813-92cc-266b2e5bb571</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>3e0927cb-0f83-43af-b02b-3d275ed54269</webElementGuid>
+      <webElementGuid>bbb2c60f-3f45-4e7b-87ee-c3f3384ac86a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Agreement</value>
-      <webElementGuid>1cf52b48-71f7-4840-a390-e19980984a79</webElementGuid>
+      <webElementGuid>b5f1e9bc-9bad-402f-b9f2-a574e80ee4c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>agreementPrivacy</value>
-      <webElementGuid>7a272c18-516f-417f-a176-a39dcae35296</webElementGuid>
+      <webElementGuid>7bc3ffd5-23aa-4f1c-807f-0fe8f4684986</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-check-input p-0</value>
-      <webElementGuid>70954134-5612-4ac6-b183-144b7b4bab82</webElementGuid>
+      <webElementGuid>7c21dfe2-169d-4480-8137-25371780606a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;agreementPrivacy&quot;)</value>
-      <webElementGuid>a8e9c9a7-3a0f-458b-a96e-d47a7ae42772</webElementGuid>
+      <webElementGuid>3f1b0e90-a831-4db7-8de6-6412e44538eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,23 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='agreementPrivacy']</value>
-      <webElementGuid>8164216b-a5fa-4169-aad9-ae0505209e3f</webElementGuid>
+      <webElementGuid>d028c367-8403-4927-956f-55019acdb482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/input</value>
+      <webElementGuid>df7f9524-def2-4870-90f1-62bfc6b51f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @name = 'Agreement' and @id = 'agreementPrivacy']</value>
+      <webElementGuid>5aaec69e-f6dd-4dd7-86bf-5f1ff8c9c384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,13 +95,5 @@
       <type>Main</type>
       <value>//div[6]/div/div/div/input</value>
       <webElementGuid>53d8328f-dc19-4492-a976-4ac5b781f53f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'checkbox' and @name = 'Agreement' and @id = 'agreementPrivacy']</value>
-      <webElementGuid>0930b273-d38b-4f6e-bb8d-f290331e838d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
