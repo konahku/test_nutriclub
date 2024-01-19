@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Jakarta Selatan</name>
+   <tag></tag>
+   <elementGuidId>06868ae1-4aa5-43da-9d29-28f4cd928fce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-sampling_district-result-a1ec-38' and (text() = 'Jakarta Selatan' or . = 'Jakarta Selatan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>bd66d996-01de-46a5-b221-cf90e3508ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--selectable select2-results__option--highlighted</value>
+      <webElementGuid>333f2c3c-bbd3-484d-869b-dbdef5a58cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-sampling_district-result-a1ec-38</value>
+      <webElementGuid>c291b91b-2d13-4f6f-bf0b-afe6878e789b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>4034d1f7-1fc7-4e5b-9395-d9bdb02831f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-data-select2-sampling_district-result-a1ec-38</value>
+      <webElementGuid>1218ca8c-af73-4598-ae43-d01c76dee216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4a236000-78e0-47f1-a2a3-3a4d61f541b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jakarta Selatan</value>
+      <webElementGuid>305d63be-6681-4eb5-8881-7b0c6202b915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-results&quot;]/ul[@id=&quot;select2-sampling_district-results&quot;]/li[@id=&quot;select2-sampling_district-result-a1ec-38&quot;]</value>
+      <webElementGuid>3e9fc692-8d8e-4365-b927-0ac874258f15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-sampling_district-result-a1ec-38' and (text() = 'Jakarta Selatan' or . = 'Jakarta Selatan')]</value>
+      <webElementGuid>7b0baf5c-3483-4993-86ae-b46e2ed193c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_DKI Jakarta</name>
+   <tag></tag>
+   <elementGuidId>0f151b52-fc38-42b2-aba4-8c4ac6f46c9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-sampling_province-result-x96u-6' and (text() = 'DKI Jakarta' or . = 'DKI Jakarta')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>66be11dc-9870-4821-b132-bf3c438155da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--selectable select2-results__option--highlighted</value>
+      <webElementGuid>8ae2dd30-167b-4734-b95f-8455726b2aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-sampling_province-result-x96u-6</value>
+      <webElementGuid>7825bb3d-6673-4318-8e4f-5cd91218b523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>abd96dd6-f4f5-4bbe-b873-ab615ab18af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-data-select2-sampling_province-result-x96u-6</value>
+      <webElementGuid>eaffe5ae-5a3a-43eb-9d43-da0a2f452589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>87a35ff0-71c3-428e-9feb-a29ca857efaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DKI Jakarta</value>
+      <webElementGuid>3a19f870-b940-45e5-af06-acb08332d613</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-results&quot;]/ul[@id=&quot;select2-sampling_province-results&quot;]/li[@id=&quot;select2-sampling_province-result-x96u-6&quot;]</value>
+      <webElementGuid>504c4747-f2dd-4fdd-9186-d1e4a1feddcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-sampling_province-result-x96u-6' and (text() = 'DKI Jakarta' or . = 'DKI Jakarta')]</value>
+      <webElementGuid>d1e43f8d-c681-42c2-a228-d06acb683841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

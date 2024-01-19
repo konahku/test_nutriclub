@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Table datepicker</name>
+   <tag></tag>
+   <elementGuidId>07fa9d08-1cbf-406d-9bd0-0731599710c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-datepicker-div']/table</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>table.ui-datepicker-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>table</value>
+      <webElementGuid>d6a7c468-a7a3-4710-a43e-c5ac53296c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-datepicker-calendar</value>
+      <webElementGuid>75516f0f-fb06-4f8e-ba1d-f0e9f08e55dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SuMoTuWeThFrSa   123456789101112131415161718192021222324252627282930  </value>
+      <webElementGuid>fefa8409-73f9-44c9-a2a9-c5fae0d01d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-datepicker-div&quot;)/table[@class=&quot;ui-datepicker-calendar&quot;]</value>
+      <webElementGuid>4ac7e61d-ef3c-42ce-853e-2f5a594586bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-datepicker-div']/table</value>
+      <webElementGuid>c461c2e4-e73e-40e9-9d2f-2231c842a965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::table[1]</value>
+      <webElementGuid>7310ecb2-e8c7-458d-8440-405f1fa55562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/following::table[1]</value>
+      <webElementGuid>3106687b-c18a-4c4a-904b-d4ebaa279059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/table</value>
+      <webElementGuid>66af6aa2-bfb5-42e8-bb9e-fc4a06cb6b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//table[(text() = 'SuMoTuWeThFrSa   123456789101112131415161718192021222324252627282930  ' or . = 'SuMoTuWeThFrSa   123456789101112131415161718192021222324252627282930  ')]</value>
+      <webElementGuid>0444c1d9-61a8-43b9-a204-eed9ea355b42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

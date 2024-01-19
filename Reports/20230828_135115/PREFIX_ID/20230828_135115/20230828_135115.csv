@@ -1,0 +1,314 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+PREFIX_ID,,,,2023-08-28 13:51:19,2023-08-28 13:52:23,1m - 4.336s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0811 Halo,,,,2023-08-28 13:51:19,2023-08-28 13:51:23,4.006s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:20,2023-08-28 13:51:20,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:20,2023-08-28 13:51:20,0.008s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:20,2023-08-28 13:51:20,0.000s,PASSED
+"randomNumber = ""0811"" + lastNineDigits",,,,2023-08-28 13:51:20,2023-08-28 13:51:20,0.005s,PASSED
+return randomNumber,,,,2023-08-28 13:51:20,2023-08-28 13:51:20,0.003s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:20,2023-08-28 13:51:23,3.479s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0812 Telkomsel,,,,2023-08-28 13:51:23,2023-08-28 13:51:25,1.770s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:24,2023-08-28 13:51:24,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:24,2023-08-28 13:51:24,0.001s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:24,2023-08-28 13:51:24,0.000s,PASSED
+"randomNumber = ""0812"" + lastNineDigits",,,,2023-08-28 13:51:24,2023-08-28 13:51:24,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:24,2023-08-28 13:51:24,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:24,2023-08-28 13:51:25,1.368s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0813 Telkomsel,,,,2023-08-28 13:51:25,2023-08-28 13:51:27,1.758s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:25,2023-08-28 13:51:25,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:25,2023-08-28 13:51:25,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:25,2023-08-28 13:51:25,0.004s,PASSED
+"randomNumber = ""0813"" + lastNineDigits",,,,2023-08-28 13:51:25,2023-08-28 13:51:25,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:25,2023-08-28 13:51:25,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:25,2023-08-28 13:51:27,1.354s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0814 Indosat M2,,,,2023-08-28 13:51:27,2023-08-28 13:51:28,1.593s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:27,2023-08-28 13:51:27,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:27,2023-08-28 13:51:27,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:27,2023-08-28 13:51:27,0.000s,PASSED
+"randomNumber = ""0814"" + lastNineDigits",,,,2023-08-28 13:51:27,2023-08-28 13:51:27,0.003s,PASSED
+return randomNumber,,,,2023-08-28 13:51:27,2023-08-28 13:51:27,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:27,2023-08-28 13:51:28,1.253s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0815 Indosat Mentari,,,,2023-08-28 13:51:28,2023-08-28 13:51:30,1.770s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:29,2023-08-28 13:51:29,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:29,2023-08-28 13:51:29,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:29,2023-08-28 13:51:29,0.000s,PASSED
+"randomNumber = ""0815"" + lastNineDigits",,,,2023-08-28 13:51:29,2023-08-28 13:51:29,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:29,2023-08-28 13:51:29,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:29,2023-08-28 13:51:30,1.391s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0816 Indosat Mentari,,,,2023-08-28 13:51:30,2023-08-28 13:51:32,1.758s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:31,2023-08-28 13:51:31,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:31,2023-08-28 13:51:31,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:31,2023-08-28 13:51:31,0.000s,PASSED
+"randomNumber = ""0816"" + lastNineDigits",,,,2023-08-28 13:51:31,2023-08-28 13:51:31,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:31,2023-08-28 13:51:31,0.003s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:31,2023-08-28 13:51:32,1.367s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0817 XL,,,,2023-08-28 13:51:32,2023-08-28 13:51:34,1.634s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:32,2023-08-28 13:51:32,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:32,2023-08-28 13:51:32,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:32,2023-08-28 13:51:32,0.000s,PASSED
+"randomNumber = ""0817"" + lastNineDigits",,,,2023-08-28 13:51:32,2023-08-28 13:51:32,0.003s,PASSED
+return randomNumber,,,,2023-08-28 13:51:32,2023-08-28 13:51:32,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:32,2023-08-28 13:51:34,1.299s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0818 XL,,,,2023-08-28 13:51:34,2023-08-28 13:51:35,1.652s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:34,2023-08-28 13:51:34,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:34,2023-08-28 13:51:34,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:34,2023-08-28 13:51:34,0.000s,PASSED
+"randomNumber = ""0818"" + lastNineDigits",,,,2023-08-28 13:51:34,2023-08-28 13:51:34,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:34,2023-08-28 13:51:34,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:34,2023-08-28 13:51:35,1.283s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0819 XL,,,,2023-08-28 13:51:35,2023-08-28 13:51:37,1.679s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:36,2023-08-28 13:51:36,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:36,2023-08-28 13:51:36,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:36,2023-08-28 13:51:36,0.002s,PASSED
+"randomNumber = ""0819"" + lastNineDigits",,,,2023-08-28 13:51:36,2023-08-28 13:51:36,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:36,2023-08-28 13:51:36,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:36,2023-08-28 13:51:37,1.316s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0821 Simpati,,,,2023-08-28 13:51:37,2023-08-28 13:51:39,1.636s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:37,2023-08-28 13:51:37,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:37,2023-08-28 13:51:37,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:37,2023-08-28 13:51:37,0.000s,PASSED
+"randomNumber = ""0821"" + lastNineDigits",,,,2023-08-28 13:51:37,2023-08-28 13:51:37,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:37,2023-08-28 13:51:37,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:37,2023-08-28 13:51:39,1.242s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0822 Simpati,,,,2023-08-28 13:51:39,2023-08-28 13:51:40,1.599s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:39,2023-08-28 13:51:39,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:39,2023-08-28 13:51:39,0.001s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:39,2023-08-28 13:51:39,0.000s,PASSED
+"randomNumber = ""0822"" + lastNineDigits",,,,2023-08-28 13:51:39,2023-08-28 13:51:39,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:39,2023-08-28 13:51:39,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:39,2023-08-28 13:51:40,1.327s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0823 Simpati,,,,2023-08-28 13:51:40,2023-08-28 13:51:42,1.508s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:40,2023-08-28 13:51:40,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:40,2023-08-28 13:51:40,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:40,2023-08-28 13:51:40,0.001s,PASSED
+"randomNumber = ""0823"" + lastNineDigits",,,,2023-08-28 13:51:40,2023-08-28 13:51:40,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:40,2023-08-28 13:51:40,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:40,2023-08-28 13:51:42,1.264s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0831 AXIS,,,,2023-08-28 13:51:42,2023-08-28 13:51:43,1.749s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:42,2023-08-28 13:51:42,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:42,2023-08-28 13:51:42,0.001s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:42,2023-08-28 13:51:42,0.000s,PASSED
+"randomNumber = ""0831"" + lastNineDigits",,,,2023-08-28 13:51:42,2023-08-28 13:51:42,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:42,2023-08-28 13:51:42,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:42,2023-08-28 13:51:43,1.413s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0832 AXIS,,,,2023-08-28 13:51:43,2023-08-28 13:51:45,1.619s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:44,2023-08-28 13:51:44,0.002s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:44,2023-08-28 13:51:44,0.001s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:44,2023-08-28 13:51:44,0.000s,PASSED
+"randomNumber = ""0832"" + lastNineDigits",,,,2023-08-28 13:51:44,2023-08-28 13:51:44,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:44,2023-08-28 13:51:44,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:44,2023-08-28 13:51:45,1.277s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0833 AXIS,,,,2023-08-28 13:51:45,2023-08-28 13:51:47,1.600s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:45,2023-08-28 13:51:45,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:45,2023-08-28 13:51:45,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:45,2023-08-28 13:51:45,0.000s,PASSED
+"randomNumber = ""0833"" + lastNineDigits",,,,2023-08-28 13:51:45,2023-08-28 13:51:45,0.005s,PASSED
+return randomNumber,,,,2023-08-28 13:51:45,2023-08-28 13:51:45,0.001s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:45,2023-08-28 13:51:47,1.288s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0838 AXIS,,,,2023-08-28 13:51:47,2023-08-28 13:51:49,1.820s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:47,2023-08-28 13:51:47,0.002s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:47,2023-08-28 13:51:47,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:47,2023-08-28 13:51:47,0.000s,PASSED
+"randomNumber = ""0838"" + lastNineDigits",,,,2023-08-28 13:51:47,2023-08-28 13:51:47,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:47,2023-08-28 13:51:47,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:47,2023-08-28 13:51:49,1.500s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0852 Kartu As,,,,2023-08-28 13:51:49,2023-08-28 13:51:50,1.533s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:49,2023-08-28 13:51:49,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:49,2023-08-28 13:51:49,0.001s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:49,2023-08-28 13:51:49,0.000s,PASSED
+"randomNumber = ""0852"" + lastNineDigits",,,,2023-08-28 13:51:49,2023-08-28 13:51:49,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:49,2023-08-28 13:51:49,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:49,2023-08-28 13:51:50,1.257s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0853 Kartu As,,,,2023-08-28 13:51:50,2023-08-28 13:51:52,1.491s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:50,2023-08-28 13:51:50,0.001s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:50,2023-08-28 13:51:50,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:50,2023-08-28 13:51:50,0.000s,PASSED
+"randomNumber = ""0853"" + lastNineDigits",,,,2023-08-28 13:51:50,2023-08-28 13:51:50,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:50,2023-08-28 13:51:50,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:50,2023-08-28 13:51:52,1.275s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0855 INDOSAT Matrix,,,,2023-08-28 13:51:52,2023-08-28 13:51:53,1.605s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:52,2023-08-28 13:51:52,0.002s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:52,2023-08-28 13:51:52,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:52,2023-08-28 13:51:52,0.003s,PASSED
+"randomNumber = ""0855"" + lastNineDigits",,,,2023-08-28 13:51:52,2023-08-28 13:51:52,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:52,2023-08-28 13:51:52,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:52,2023-08-28 13:51:53,1.351s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0856 Indosat M3,,,,2023-08-28 13:51:53,2023-08-28 13:51:55,1.448s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:53,2023-08-28 13:51:53,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:53,2023-08-28 13:51:53,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:53,2023-08-28 13:51:53,0.000s,PASSED
+"randomNumber = ""0856"" + lastNineDigits",,,,2023-08-28 13:51:53,2023-08-28 13:51:53,0.006s,PASSED
+return randomNumber,,,,2023-08-28 13:51:53,2023-08-28 13:51:53,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:53,2023-08-28 13:51:55,1.183s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0857 Indosat M3,,,,2023-08-28 13:51:55,2023-08-28 13:51:56,1.540s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:55,2023-08-28 13:51:55,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:55,2023-08-28 13:51:55,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:55,2023-08-28 13:51:55,0.010s,PASSED
+"randomNumber = ""0857"" + lastNineDigits",,,,2023-08-28 13:51:55,2023-08-28 13:51:55,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:55,2023-08-28 13:51:55,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:55,2023-08-28 13:51:56,1.256s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0858 Indosat Mentari,,,,2023-08-28 13:51:56,2023-08-28 13:51:58,1.393s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:56,2023-08-28 13:51:56,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:56,2023-08-28 13:51:56,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:56,2023-08-28 13:51:56,0.000s,PASSED
+"randomNumber = ""0858"" + lastNineDigits",,,,2023-08-28 13:51:56,2023-08-28 13:51:56,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:56,2023-08-28 13:51:56,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:56,2023-08-28 13:51:58,1.170s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0859 XL,,,,2023-08-28 13:51:58,2023-08-28 13:51:59,1.494s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:58,2023-08-28 13:51:58,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:58,2023-08-28 13:51:58,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:58,2023-08-28 13:51:58,0.000s,PASSED
+"randomNumber = ""0859"" + lastNineDigits",,,,2023-08-28 13:51:58,2023-08-28 13:51:58,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:58,2023-08-28 13:51:58,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:58,2023-08-28 13:51:59,1.240s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0877 XL,,,,2023-08-28 13:51:59,2023-08-28 13:52:01,1.490s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:51:59,2023-08-28 13:51:59,0.008s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:51:59,2023-08-28 13:51:59,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:51:59,2023-08-28 13:51:59,0.000s,PASSED
+"randomNumber = ""0877"" + lastNineDigits",,,,2023-08-28 13:51:59,2023-08-28 13:51:59,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:51:59,2023-08-28 13:51:59,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:51:59,2023-08-28 13:52:01,1.197s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0878 XL,,,,2023-08-28 13:52:01,2023-08-28 13:52:02,1.507s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:01,2023-08-28 13:52:01,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:01,2023-08-28 13:52:01,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:01,2023-08-28 13:52:01,0.000s,PASSED
+"randomNumber = ""0878"" + lastNineDigits",,,,2023-08-28 13:52:01,2023-08-28 13:52:01,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:01,2023-08-28 13:52:01,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:01,2023-08-28 13:52:02,1.237s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0881 SMARTFREN,,,,2023-08-28 13:52:02,2023-08-28 13:52:04,1.438s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:02,2023-08-28 13:52:02,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:02,2023-08-28 13:52:02,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:02,2023-08-28 13:52:02,0.000s,PASSED
+"randomNumber = ""0881"" + lastNineDigits",,,,2023-08-28 13:52:02,2023-08-28 13:52:02,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:02,2023-08-28 13:52:02,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:02,2023-08-28 13:52:04,1.222s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0882 SMARTFREN,,,,2023-08-28 13:52:04,2023-08-28 13:52:05,1.392s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:04,2023-08-28 13:52:04,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:04,2023-08-28 13:52:04,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:04,2023-08-28 13:52:04,0.000s,PASSED
+"randomNumber = ""0882"" + lastNineDigits",,,,2023-08-28 13:52:04,2023-08-28 13:52:04,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:04,2023-08-28 13:52:04,0.002s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:04,2023-08-28 13:52:05,1.170s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0883 SMARTFREN,,,,2023-08-28 13:52:05,2023-08-28 13:52:06,1.420s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:05,2023-08-28 13:52:05,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:05,2023-08-28 13:52:05,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:05,2023-08-28 13:52:05,0.000s,PASSED
+"randomNumber = ""0883"" + lastNineDigits",,,,2023-08-28 13:52:05,2023-08-28 13:52:05,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:05,2023-08-28 13:52:05,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:05,2023-08-28 13:52:06,1.175s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0884 SMARTFREN,,,,2023-08-28 13:52:06,2023-08-28 13:52:08,1.486s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:07,2023-08-28 13:52:07,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:07,2023-08-28 13:52:07,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:07,2023-08-28 13:52:07,0.000s,PASSED
+"randomNumber = ""0884"" + lastNineDigits",,,,2023-08-28 13:52:07,2023-08-28 13:52:07,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:07,2023-08-28 13:52:07,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:07,2023-08-28 13:52:08,1.209s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0885 SMARTFREN,,,,2023-08-28 13:52:08,2023-08-28 13:52:09,1.426s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:08,2023-08-28 13:52:08,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:08,2023-08-28 13:52:08,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:08,2023-08-28 13:52:08,0.000s,PASSED
+"randomNumber = ""0885"" + lastNineDigits",,,,2023-08-28 13:52:08,2023-08-28 13:52:08,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:08,2023-08-28 13:52:08,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:08,2023-08-28 13:52:09,1.209s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0886 SMARTFREN,,,,2023-08-28 13:52:09,2023-08-28 13:52:11,1.416s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:09,2023-08-28 13:52:09,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:09,2023-08-28 13:52:09,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:09,2023-08-28 13:52:09,0.000s,PASSED
+"randomNumber = ""0886"" + lastNineDigits",,,,2023-08-28 13:52:09,2023-08-28 13:52:09,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:09,2023-08-28 13:52:09,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:09,2023-08-28 13:52:11,1.163s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0887 SMARTFREN,,,,2023-08-28 13:52:11,2023-08-28 13:52:12,1.457s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:11,2023-08-28 13:52:11,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:11,2023-08-28 13:52:11,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:11,2023-08-28 13:52:11,0.000s,PASSED
+"randomNumber = ""0887"" + lastNineDigits",,,,2023-08-28 13:52:11,2023-08-28 13:52:11,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:11,2023-08-28 13:52:11,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:11,2023-08-28 13:52:12,1.233s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0888 SMARTFREN,,,,2023-08-28 13:52:12,2023-08-28 13:52:14,1.527s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:12,2023-08-28 13:52:12,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:12,2023-08-28 13:52:12,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:12,2023-08-28 13:52:12,0.000s,PASSED
+"randomNumber = ""0888"" + lastNineDigits",,,,2023-08-28 13:52:12,2023-08-28 13:52:12,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:12,2023-08-28 13:52:12,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:12,2023-08-28 13:52:14,1.316s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0889 SMARTFREN,,,,2023-08-28 13:52:14,2023-08-28 13:52:15,1.471s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:14,2023-08-28 13:52:14,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:14,2023-08-28 13:52:14,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:14,2023-08-28 13:52:14,0.000s,PASSED
+"randomNumber = ""0889"" + lastNineDigits",,,,2023-08-28 13:52:14,2023-08-28 13:52:14,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:14,2023-08-28 13:52:14,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:14,2023-08-28 13:52:15,1.218s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0895 TRI plus kondisi bunda SGM,,,,2023-08-28 13:52:15,2023-08-28 13:52:17,1.421s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:15,2023-08-28 13:52:15,0.004s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:15,2023-08-28 13:52:15,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:15,2023-08-28 13:52:15,0.000s,PASSED
+"randomNumber = ""0895"" + lastNineDigits",,,,2023-08-28 13:52:15,2023-08-28 13:52:15,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:15,2023-08-28 13:52:15,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:15,2023-08-28 13:52:17,1.222s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0896 TRI,,,,2023-08-28 13:52:17,2023-08-28 13:52:18,1.495s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:17,2023-08-28 13:52:17,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:17,2023-08-28 13:52:17,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:17,2023-08-28 13:52:17,0.000s,PASSED
+"randomNumber = ""0896"" + lastNineDigits",,,,2023-08-28 13:52:17,2023-08-28 13:52:17,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:17,2023-08-28 13:52:17,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:17,2023-08-28 13:52:18,1.245s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0897 TRI,,,,2023-08-28 13:52:18,2023-08-28 13:52:20,1.450s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:18,2023-08-28 13:52:18,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:18,2023-08-28 13:52:18,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:18,2023-08-28 13:52:18,0.000s,PASSED
+"randomNumber = ""0897"" + lastNineDigits",,,,2023-08-28 13:52:18,2023-08-28 13:52:18,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:18,2023-08-28 13:52:18,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:18,2023-08-28 13:52:20,1.243s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0898 TRI,,,,2023-08-28 13:52:20,2023-08-28 13:52:21,1.506s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:20,2023-08-28 13:52:20,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:20,2023-08-28 13:52:20,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:20,2023-08-28 13:52:20,0.000s,PASSED
+"randomNumber = ""0898"" + lastNineDigits",,,,2023-08-28 13:52:20,2023-08-28 13:52:20,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:20,2023-08-28 13:52:20,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:20,2023-08-28 13:52:21,1.246s,FAILED
+,,,,,,,
+Test Cases/PREFIX ID/0899 TRI,,,,2023-08-28 13:52:21,2023-08-28 13:52:23,2.207s,FAILED
+randomNum = generateRandomNumber(),,,,2023-08-28 13:52:21,2023-08-28 13:52:21,0.000s,PASSED
+random = new java.util.Random(),,,,2023-08-28 13:52:21,2023-08-28 13:52:21,0.000s,PASSED
+"lastNineDigits = String.format(""%09d"", random.nextInt(1000000000))",,,,2023-08-28 13:52:21,2023-08-28 13:52:21,0.000s,PASSED
+"randomNumber = ""0899"" + lastNineDigits",,,,2023-08-28 13:52:21,2023-08-28 13:52:21,0.000s,PASSED
+return randomNumber,,,,2023-08-28 13:52:21,2023-08-28 13:52:21,0.000s,PASSED
+"openBrowser("""")",,,,2023-08-28 13:52:21,2023-08-28 13:52:23,1.984s,FAILED

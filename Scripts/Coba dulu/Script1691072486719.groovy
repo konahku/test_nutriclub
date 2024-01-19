@@ -19,7 +19,3 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://nutriclub.eydendigital.co.id')
 
-WebUI.focus(findTestObject('Coba dulu/nutrisi'))
-
-WebUI.click(findTestObject('Coba dulu/nutrisi'))
-
