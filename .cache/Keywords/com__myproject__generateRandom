@@ -1,0 +1,34 @@
+{
+  "keywordFileContentHash": "A36446227D49079CB5D28938D80AE4DD",
+  "keywordClasses": [
+    {
+      "name": "com.myproject.CustomKeywords",
+      "keywordMethods": [
+        {
+          "name": "generateRandomNameWithNumber",
+          "parameters": [
+            {
+              "name": "maxIterations",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    },
+    {
+      "name": "com.myproject.generateRandom",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

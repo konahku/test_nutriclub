@@ -24,21 +24,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://nutriclub.eydendigital.co.id/account/register')
 
-WebUI.setText(findTestObject('Object Repository/Register SGM/input_Nama Lengkap_Fullname'), 'Testing sdk')
+WebUI.setText(findTestObject('null'), 'Testing sdk')
 
 // Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
-WebUI.setText(findTestObject('Object Repository/Register SGM/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), 
+WebUI.setText(findTestObject('null'), 
     randomNum)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Register SGM/input_Password_member_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('null'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Register SGM/input_Konfirmasi Password_ConfirmPassword'), 'iFGeFYmXIrUhQZHvW7P22w==')
+WebUI.setEncryptedText(findTestObject('null'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.click(findTestObject('Object Repository/Register SGM/kondisi belum hamil'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Register SGM/input_Kode Refereal  Kode Event (opsional)_Agreement'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Register SGM/button_DAFTAR'))
+WebUI.click(findTestObject('null'))
 
 String generateRandomNumber() {
     Random random = new Random()
@@ -55,15 +55,15 @@ String generateRandomNumber() {
 //
 //WebUI.navigateToUrl('https://generasi.eydendigital.co.id/klub-generasi-maju/register')
 //
-//WebUI.click(findTestObject('Object Repository/Register SGM/button_SAYA SETUJU'))
+//WebUI.click(findTestObject('null'))
 //
 //WebUI.scrollToPosition(10, 500)
 //
-//WebUI.click(findTestObject('Object Repository/Register SGM/div_Kondisi Bunda'))
+//WebUI.click(findTestObject('null'))
 //
 //WebUI.delay(2)
 //
-//WebUI.click(findTestObject('Object Repository/Register SGM/div_Belum Hamil'))
+//WebUI.click(findTestObject('null'))
 //
-//WebUI.click(findTestObject('Object Repository/Register SGM/input_Saya telah membacadan_sayasetuju'))
+//WebUI.click(findTestObject('null'))
 

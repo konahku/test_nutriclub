@@ -28,7 +28,7 @@ WebUI.navigateToUrl('https://nutriclub.eydendigital.co.id/account/register')
 
 WebUI.click(findTestObject('Register Nutri/button_Saya Setuju'))
 
-WebUI.setText(findTestObject('Register Nutri/input_Nama Lengkap_Fullname'), 'Testing sdk')
+WebUI.setText(findTestObject('Register Nutri/input_Nama Lengkap_Fullname'), 'ziza')
 
 // Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
 WebUI.setText(findTestObject('Register Nutri/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), randomNum)

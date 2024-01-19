@@ -27,7 +27,7 @@ WebUI.navigateToUrl('https://nutriclub.eydendigital.co.id/account/register')
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('Register Nutri/input_Nama Lengkap_Fullname'), 'Testing sdk')
+WebUI.setText(findTestObject('Register Nutri/input_Nama Lengkap_Fullname'), 'zia')
 
 // Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
 WebUI.setText(findTestObject('Register Nutri/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), randomPhoneNumber)
@@ -35,6 +35,8 @@ WebUI.setText(findTestObject('Register Nutri/input_No. Handphone (Terhubung What
 WebUI.setEncryptedText(findTestObject('Register Nutri/input_Password_member_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
 WebUI.setEncryptedText(findTestObject('Register Nutri/input_Konfirmasi Password_ConfirmPassword'), 'iFGeFYmXIrUhQZHvW7P22w==')
+
+WebUI.verifyTextPresent('Nomor HP Mama tidak terdaftar di Indonesia', false)
 
 WebUI.click(findTestObject('Register Nutri/kondisi belum hamil'))
 
