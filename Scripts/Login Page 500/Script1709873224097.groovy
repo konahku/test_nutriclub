@@ -16,6 +16,32 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.WebDriverException
 
-WebUI.openBrowser('https://nutriclub.eydendigital.co.id')
+WebUI.openBrowser(GlobalVariable.URL)
 
+WebUI.click(findTestObject('Homepage/a_Login'))
+
+try {
+
+	// Verify the response code
+	int responseCode = DriverFactory.getWebDriver().manage().logs().get("performance")
+		.filter { it.message.contains('"statusCode":') }
+		.collect { it.message.replaceAll(/.*"statusCode": (\d+),.*/, '$1') }
+		.find { it.toInteger() >= 500 }
+
+	if (responseCode != null) {
+		// The website returned a 5xx status code
+		println("Website returned a $responseCode status code.")
+	} else {
+		// The website is accessible
+		println("Website is accessible.")
+	}
+} catch (WebDriverException e) {
+	// Handle WebDriverException (e.g., if the website is not reachable)
+	println("Error accessing the website: " + e.getMessage())
+} finally {
+	// Close the browser
+	WebUI.closeBrowser()
+}

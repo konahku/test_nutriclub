@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser(URL)
+
+2
+00:00:00,000 --> 00:00:00,000
+5. click(findTestObject("Homepage/a_Login"))
+
+3
+00:00:00,000 --> 00:00:00,000
+9. verifyTextPresent("Kata Sandi", false)
+
+4
+00:00:00,000 --> 00:00:00,000
+13. try
+
+5
+00:00:00,000 --> 00:00:00,000
+1. responseCode =  }).find({ -> ... })
+
+6
+00:00:00,000 --> 00:00:00,000
+2. println("Error accessing the website: " + e.getMessage())
+
+7
+00:00:00,000 --> 00:00:00,000
+1. closeBrowser()
+

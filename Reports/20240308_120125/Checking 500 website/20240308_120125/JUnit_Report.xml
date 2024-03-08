@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Checking 500 website" time="19.371" tests="1" failures="0" errors="0">
+   <testsuite name="Checking 500 website" tests="1" failures="0" errors="0" time="19.371" skipped="0" timestamp="2024-03-08 12:01:29" hostname="Sarah Nur Azizah - zizah-eyd" id="Test Suites/Checking 500 website">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Sarah Nur Azizah\\git\\nutriclub_zizah\\nutriclub_zizah\\Reports\\20240308_120125\\Checking 500 website\\20240308_120125"/>
+         <property name="logFiles" value="C:\\Users\\Sarah Nur Azizah\\git\\nutriclub_zizah\\nutriclub_zizah\\Reports\\20240308_120125\\Checking 500 website\\20240308_120125\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Sarah Nur Azizah - zizah-eyd"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 122.0.0.0"/>
+         <property name="hostAddress" value="10.10.10.89"/>
+         <property name="sessionId" value="a6630c87a8325e824c8b40d2cc480f04"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login Page 500" time="18.993" classname="Test Cases/Login Page 500" status="PASSED">
+         <system-out><![CDATA[2024-03-08 12:01:29 - [TEST_CASE][PASSED] - Test Cases/Login Page 500: Test Cases/Login Page 500
+
+2024-03-08 12:01:30 - [TEST_STEP][PASSED] - openBrowser(URL): Browser is opened with url: 'https://www.nutriclub.co.id/'
+
+2024-03-08 12:01:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2024-03-08 12:01:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2024-03-08 12:01:33 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+2024-03-08 12:01:43 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.nutriclub.co.id/'
+
+2024-03-08 12:01:43 - [TEST_STEP][PASSED] - click(findTestObject("Homepage/a_Login")): Object: 'Object Repository/Homepage/a_Login' is clicked on
+
+2024-03-08 12:01:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Homepage/a_Login' is clicked on
+
+2024-03-08 12:01:44 - [TEST_STEP][PASSED] - verifyTextPresent("Kata Sandi", false): Text 'Kata Sandi' is present on page 
+
+2024-03-08 12:01:47 - [MESSAGE][PASSED] - Text 'Kata Sandi' is present on page 
+
+2024-03-08 12:01:47 - [TEST_STEP][PASSED] - try: null
+
+2024-03-08 12:01:47 - [TEST_STEP][PASSED] - responseCode =  }).find({ -> ... }): null
+
+2024-03-08 12:01:47 - [TEST_STEP][PASSED] - catch (org.openqa.selenium.WebDriverException e): null
+
+2024-03-08 12:01:47 - [TEST_STEP][PASSED] - println("Error accessing the website: " + e.getMessage()): null
+
+2024-03-08 12:01:47 - [TEST_STEP][PASSED] - Finally: Browser is closed
+
+2024-03-08 12:01:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2024-03-08 12:01:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2024-03-08 12:01:29 - [TEST_SUITE][PASSED] - Checking 500 website: Test Cases/Login Page 500]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
