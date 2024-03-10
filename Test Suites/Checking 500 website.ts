@@ -15,7 +15,7 @@
       <guid>a0cd909e-5d7a-40ea-99ef-a669462a1082</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login Page 500</testCaseId>
+      <testCaseId>Test Cases/Checking error 500 Nutri/Login Page 500</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
