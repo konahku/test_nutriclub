@@ -20,39 +20,38 @@ import org.openqa.selenium.Keys as Keys
 // Isi field dalam form dengan angka acak
 String randomNum = generateRandomNumber()
 
-String generateRandomNumber() {
-	Random random = new Random()
-
-	String lastNineDigits = String.format('%09d', random.nextInt(1000000000))
-
-	String randomNumber = '0851' + lastNineDigits
-
-	return randomNumber
-}
- 
 WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://nutriclub.eydendigital.co.id/account/register')
+WebUI.navigateToUrl('https://nutriclub.co.id/account/register')
 
-WebUI.setText(findTestObject('Object Repository/Register Nutri/input_Nama Lengkap_Fullname'), 'test sdk')
+WebUI.setText(findTestObject('Register - Nutriclub/input_Nama Lengkap_Fullname'), 'testing acc')
 
 WebUI.click(findTestObject('Object Repository/Register Nutri/button_Saya Setuju'))
 
 // Ganti "idField" dengan ID elemen field yang ingin diisi dengan angka acak
-WebUI.setText(findTestObject('Register Nutri/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), randomNum)
+WebUI.setText(findTestObject('Register - Nutriclub/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), randomNum)
 
 // set password jadi P@ssw0rd
-WebUI.setEncryptedText(findTestObject('Register Nutri/input_Password_member_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
+//WebUI.setEncryptedText(findTestObject('Register - Nutriclub/input_Password_member_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
 //WebUI.click(findTestObject('Register Nutri/kondisi hamil'))
-
-WebUI.click(findTestObject('Object Repository/Register Nutri/input_Tanggal Lahir Anak_isRefferalCodeEventCode'))
-
-WebUI.setText(findTestObject('Object Repository/Register Nutri/input_Kode Referal (opsional)_refferalCodeEventCode'), 'PUN08828')
-
-WebUI.click(findTestObject('Object Repository/Register Nutri/checked sk'))
+//WebUI.click(findTestObject('Object Repository/Register Nutri/input_Tanggal Lahir Anak_isRefferalCodeEventCode'))
+//
+//WebUI.setText(findTestObject('Object Repository/Register Nutri/input_Kode Referal (opsional)_refferalCodeEventCode'), 'PUN08828')
+//
+//WebUI.click(findTestObject('Object Repository/Register Nutri/checked sk'))
 
 WebUI.click(findTestObject('Object Repository/Register Nutri/input_Kondisi Mama saat ini_parent-status'))
+
+String generateRandomNumber() {
+    Random random = new Random()
+
+    String lastNineDigits = String.format('%09d', random.nextInt(1000000000))
+
+    String randomNumber = '0877' + lastNineDigits
+
+    return randomNumber
+}
 
