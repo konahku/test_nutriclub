@@ -25,7 +25,7 @@ WebUI.navigateToUrl('nutriclub.eydendigital.co.id/account/register')
 
 WebUI.setText(findTestObject('Register - Nutriclub/input_Nama Lengkap_Fullname'), 'azia')
 
-WebUI.setText(findTestObject('Register - Nutriclub/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), '08777777777')
+WebUI.setText(findTestObject('Register - Nutriclub/input_No. Handphone (Terhubung Whatsapp)_me_41b392'), '08777777777')
 
 WebUI.setEncryptedText(findTestObject('Register - Nutriclub/input_Password_member_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 

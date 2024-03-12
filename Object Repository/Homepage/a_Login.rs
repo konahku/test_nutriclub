@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fdbcd4b3-e33a-437f-a0f2-08904e5504ce</webElementGuid>
+      <webElementGuid>5ab4f0d9-f6d7-47eb-ba71-d6ca48b1cee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/account/login</value>
-      <webElementGuid>ad6636fb-e8f1-4261-aafd-95d5628efe74</webElementGuid>
+      <webElementGuid>53b3b4e9-94b6-42a6-b348-6fa1a3aabd32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>navbar-brand cta-login-header header__brand mr-0</value>
-      <webElementGuid>29f4f1df-5480-46b6-b329-433714807440</webElementGuid>
+      <webElementGuid>36b138dc-0f16-4441-84d4-ea8cbd304a7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>showLoader()</value>
-      <webElementGuid>597250ea-5235-4ef6-b701-6edcba5084ed</webElementGuid>
+      <webElementGuid>f0165c5a-ee29-44a5-8bf8-f9831890724c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <value>
                         Login
                     </value>
-      <webElementGuid>fdd928b4-fdf6-4283-8a0e-9b74965511e6</webElementGuid>
+      <webElementGuid>898b0ea6-7a85-4213-96b9-67727442f5ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarNav&quot;)/div[@class=&quot;col px-md-0 d-flex align-items-center justify-content-end&quot;]/a[@class=&quot;navbar-brand cta-login-header header__brand mr-0&quot;]</value>
-      <webElementGuid>79251af3-b035-46a7-9f91-7f749ea7d136</webElementGuid>
+      <webElementGuid>d9bf567c-f2cb-4079-8f80-b307856fe50e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//a[@onclick='showLoader()'])[5]</value>
-      <webElementGuid>00902040-fac8-4341-8c57-d6e8fe7dabfc</webElementGuid>
+      <webElementGuid>63535c8f-e30c-4d33-97f8-b7588b6c4c09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarNav']/div[2]/a</value>
-      <webElementGuid>d5bee451-0e18-415a-b2a9-e0d7d591a530</webElementGuid>
+      <webElementGuid>38b2b03f-22b9-48f3-8ad2-a3d5cdf4c8fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>9e26661c-fa6f-4f7a-95ef-3620d359797f</webElementGuid>
+      <webElementGuid>c6edaa47-acf5-44b5-858b-f58924b9701b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Struk'])[1]/following::a[1]</value>
-      <webElementGuid>2a757920-2f05-4aa4-817c-8dd49f592591</webElementGuid>
+      <webElementGuid>f3fee412-fcf3-4991-bc71-fc118d172353</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nutriclub'])[1]/following::a[2]</value>
-      <webElementGuid>caaed3aa-5457-4311-ad5f-9bcb76f2362b</webElementGuid>
+      <webElementGuid>a3c1f92f-edd4-438c-af30-34e20a88f963</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::a[1]</value>
-      <webElementGuid>acc08095-db16-44a6-8e7a-668434f82205</webElementGuid>
+      <webElementGuid>bbf79301-0c20-42f9-8c4c-e13b121391da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::a[4]</value>
-      <webElementGuid>beccf837-1523-48c6-bdf1-bc5245819d9a</webElementGuid>
+      <webElementGuid>b352549d-f51d-460f-b009-c4ad3bbe7a64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>3403652b-5a7c-46ce-aed0-d278e21a7c8e</webElementGuid>
+      <webElementGuid>4d8ef0f1-59eb-4fc8-a4f8-d7879185dc9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/account/login')]</value>
-      <webElementGuid>feb4b04c-b34c-4cce-8fe6-ae1fb7aa3cc7</webElementGuid>
+      <webElementGuid>622f8ba8-84da-44f0-83ba-407b2a44de01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,7 +144,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a</value>
-      <webElementGuid>f2a2b4df-2569-4260-b376-765909892368</webElementGuid>
+      <webElementGuid>2ae7b853-a460-45ff-b984-82e477a1b6f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,6 +156,6 @@
                     ' or . = '
                         Login
                     ')]</value>
-      <webElementGuid>b9c5c3ce-891c-4ea4-a55c-c8730e4f4b12</webElementGuid>
+      <webElementGuid>a8de7a54-2b35-41c3-9555-1aebb4c7106b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

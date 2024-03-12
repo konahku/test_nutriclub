@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_No. Handphone (Terhubung Whatsapp)_member_mobilephone</name>
+   <name>input_Mama, Silakan Upload Struk Pembelian,_cb14af</name>
    <tag></tag>
-   <elementGuidId>166880e8-6f17-428d-bde4-20b608ae7e9e</elementGuidId>
+   <elementGuidId>cc9dd7d2-378e-4b7b-ba88-64bc21f30d99</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#phone</value>
+         <value>#phone_number</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='phone']</value>
+         <value>//input[@id='phone_number']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,86 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9b4bf943-1a78-4112-b65e-5b7d92621da2</webElementGuid>
+      <webElementGuid>e89fc961-2c66-467a-9e9f-e600776ab751</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>d9ce5a1e-b6dd-44f6-b19f-2736881c2574</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>member_mobilephone</value>
-      <webElementGuid>7f71006e-e9d1-44e0-be0f-665b50aa3d6e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>phone</value>
-      <webElementGuid>b56a4b30-bb8e-4e1e-848f-40a5296f541e</webElementGuid>
+      <value>number</value>
+      <webElementGuid>3808464a-7302-4923-98ce-f09491208ca3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control mb-4</value>
-      <webElementGuid>086b66af-243a-4f38-9ad8-e60ace71f5fc</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>1fddc10e-d922-431c-bb6b-069eb76aa3e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>member_phone_number</value>
+      <webElementGuid>5b5d4724-1dfc-4d6e-a235-cf24cb30a064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phone_number</value>
+      <webElementGuid>36cca853-85fb-4bd6-a20d-63a10ce3e55e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Jawaban</value>
-      <webElementGuid>a747f8de-5393-4a32-9af5-e5a99e695ddf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>pattern</name>
-      <type>Main</type>
-      <value>\d*</value>
-      <webElementGuid>9ce0bab8-9fe3-4d25-9fff-a4b350e3aa93</webElementGuid>
+      <value>Masukkan Nomor HP Mama</value>
+      <webElementGuid>e1a84794-5a15-4db1-9ec3-b5ae2aa98082</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;phone&quot;)</value>
-      <webElementGuid>4d39afc8-0a16-4db2-b5da-4a92e652f196</webElementGuid>
+      <value>id(&quot;phone_number&quot;)</value>
+      <webElementGuid>70fee7c9-018a-4963-bbac-21109b2781c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='phone']</value>
-      <webElementGuid>9b8f8449-3d91-4e67-ad53-d5666562c616</webElementGuid>
+      <value>//input[@id='phone_number']</value>
+      <webElementGuid>5b997fa2-6bd9-450b-832d-756fb2a5ce48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='upload-receipt-form']/div/div/div[3]/div/input</value>
+      <webElementGuid>95e9db21-cc44-49cf-acb7-2cc077c337d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>853085ef-8452-484e-bb0a-99b9c70b54cc</webElementGuid>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>253502fa-ff7e-4a6f-843d-930078243fa0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'member_mobilephone' and @id = 'phone' and @placeholder = 'Jawaban']</value>
-      <webElementGuid>f74906d5-e8d1-4fa8-bc97-a36f37f46ec8</webElementGuid>
+      <value>//input[@type = 'number' and @name = 'member_phone_number' and @id = 'phone_number' and @placeholder = 'Masukkan Nomor HP Mama']</value>
+      <webElementGuid>b46f1fce-872a-405a-a15f-c99a1f39bdad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

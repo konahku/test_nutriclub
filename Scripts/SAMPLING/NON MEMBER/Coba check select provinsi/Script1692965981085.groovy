@@ -34,7 +34,7 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('button - cookie saya setuju'))
 
-WebUI.setText(findTestObject('Sampling Form/input__member_mobilephone'), randomNum)
+WebUI.setText(findTestObject('Sampling Form/input_Mama, Silakan Upload Struk Pembelian,_cb14af'), randomNum)
 
 WebUI.click(findTestObject('Sampling Form/button_check phone number'))
 

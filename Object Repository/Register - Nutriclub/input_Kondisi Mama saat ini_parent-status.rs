@@ -6,12 +6,12 @@
    <elementGuidId>c2ef6ae1-72e4-406b-963a-c348e88f606f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='parent-status']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#parent-status</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='parent-status']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3f1637c0-a665-470a-913c-dae82da5b5e1</webElementGuid>
+      <webElementGuid>639eb40c-1e3a-450f-82e2-33fb1e245d78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select-input</value>
-      <webElementGuid>7b7687bd-6997-4455-9d2d-edb2b9ab2804</webElementGuid>
+      <webElementGuid>49abe690-f586-4db8-9c12-8af6a2bf619e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>35846701-d015-46e9-9c6f-c91a9c101489</webElementGuid>
+      <webElementGuid>69b519c1-43f2-410a-9e1d-db8beea2e5ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>parent-status</value>
-      <webElementGuid>bb1c28f2-673f-4bf1-9b1f-a90610e9d223</webElementGuid>
+      <webElementGuid>356c066e-757f-4628-b203-d6b495831473</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Pilih Kondisi Mama</value>
-      <webElementGuid>055e6047-ccb7-4684-9a5a-4664580e764e</webElementGuid>
+      <webElementGuid>0636a7ad-3358-4173-88ab-d3cc96a771a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;parent-status&quot;)</value>
-      <webElementGuid>a93ee895-38cf-44e4-be5d-331edf0129fc</webElementGuid>
+      <webElementGuid>d7e0864e-aff4-426c-98de-9591cdae5e7b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='parent-status']</value>
-      <webElementGuid>f7f25515-bcfe-4ee0-bae9-be683217fa3b</webElementGuid>
+      <webElementGuid>4e4a54d6-632c-4d4e-9339-5f63f4836824</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='motherCondition']/div/div/input[2]</value>
-      <webElementGuid>c3e4809e-f5ac-4328-9190-64ac7f661ca2</webElementGuid>
+      <webElementGuid>c5010492-b51f-40f8-b9ab-e37fe10b46f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/input[2]</value>
-      <webElementGuid>261da4a6-2ca4-4529-b654-f1ebed2fc457</webElementGuid>
+      <webElementGuid>74c6b9a6-8f15-4411-9752-d8c4b7256503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'parent-status' and @placeholder = 'Pilih Kondisi Mama']</value>
-      <webElementGuid>0bb5212b-2851-42e3-ad0b-dfb32c147ef9</webElementGuid>
+      <webElementGuid>3fa4bd01-3421-4953-b156-5a2a3787d4a5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

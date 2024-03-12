@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Kenali</name>
+   <tag></tag>
+   <elementGuidId>86352420-46bb-4a87-acba-b1ba36327e8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Tahu Sekarang'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>34e365df-0a39-4fe9-817d-b800cee42b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary btn-block</value>
+      <webElementGuid>3c114a4c-c5f1-4a35-9434-b6f97608b727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kenali</value>
+      <webElementGuid>c88804ce-b84d-4fd4-858f-9cfad03bc88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;tools&quot;]/div[@class=&quot;pimcore_area_tool-list-col-two pimcore_area_content&quot;]/div[@class=&quot;tool-lists mb-4&quot;]/div[@class=&quot;tool-lists__wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-12 col-md-12 col-lg-11&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center items&quot;]/a[@class=&quot;tool-lists__card col-12 col-md-5&quot;]/div[@class=&quot;tool-lists__card-item row&quot;]/div[@class=&quot;tool-lists__card-description col-7 col-md-7 align-self-center p-0&quot;]/div[@class=&quot;tool-list__card-btn&quot;]/button[@class=&quot;btn-primary btn-block&quot;]</value>
+      <webElementGuid>30f1aee5-1168-46a1-a027-49a2384d7cd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Tahu Sekarang'])[1]/following::button[1]</value>
+      <webElementGuid>d1396ab7-8f7a-4f77-9289-17d545ba992b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tools'])[3]/following::button[2]</value>
+      <webElementGuid>c91f108c-5cdd-489a-aace-d7a2625a3c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deteksi'])[1]/preceding::button[1]</value>
+      <webElementGuid>c3d206dd-4c78-4152-8d3b-40a5f3bef760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek Sekarang'])[1]/preceding::button[2]</value>
+      <webElementGuid>2340ec74-b0d2-4875-96be-d2cb2f4a03cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kenali']/parent::*</value>
+      <webElementGuid>cd4e37bc-eea1-405d-a485-7b33bc08a27f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/div[2]/div[2]/button</value>
+      <webElementGuid>1849527f-b683-4508-9db0-279c3b8eb149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Kenali' or . = 'Kenali')]</value>
+      <webElementGuid>aeffd237-c75d-46a6-8d60-62e0bcd55db0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

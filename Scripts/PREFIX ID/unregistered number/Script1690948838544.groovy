@@ -38,7 +38,7 @@ WebUI.setEncryptedText(findTestObject('Register Nutri/input_Konfirmasi Password_
 
 WebUI.verifyTextPresent('Nomor HP Mama tidak terdaftar di Indonesia', false)
 
-WebUI.click(findTestObject('Register Nutri/kondisi belum hamil'))
+WebUI.click(findTestObject('Register Nutri/div_Ya Hapus_registration__image text-center'))
 
 WebUI.delay(3)
 

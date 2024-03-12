@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>483de5ef-0c12-49a3-872d-fc7df5bff062</webElementGuid>
+      <webElementGuid>ab078830-170a-4e26-95dd-e984cec22f32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/account/register</value>
-      <webElementGuid>14271b68-c739-4d76-802f-9daa93b26a99</webElementGuid>
+      <webElementGuid>3e47ae30-ea82-4da0-a28f-2c3b196d78d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>navbar-brand cta-register-header header__brand mr-2</value>
-      <webElementGuid>a6109c76-bc33-4489-986f-c313c22af2ec</webElementGuid>
+      <webElementGuid>026765f1-f333-4f7f-85cc-f3b9175cab53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>
                         Register
                     </value>
-      <webElementGuid>29388f59-4fbe-48f0-8036-c5dffbf2db51</webElementGuid>
+      <webElementGuid>250e391c-0a64-4721-b0d7-59e06471fdfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarNav&quot;)/div[@class=&quot;col px-md-0 d-flex align-items-center justify-content-end&quot;]/a[@class=&quot;navbar-brand cta-register-header header__brand mr-2&quot;]</value>
-      <webElementGuid>2997a41b-2efb-4efa-9b40-53db4c4acd94</webElementGuid>
+      <webElementGuid>fd06622e-573b-4136-b668-0817a0ac57d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarNav']/div[2]/a[2]</value>
-      <webElementGuid>51d1770b-5f8d-4193-b52c-e1857413b891</webElementGuid>
+      <webElementGuid>2edde292-a8b6-4123-a880-53c8607416a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Register')]</value>
-      <webElementGuid>7184316c-cd10-45b4-b4e1-adeb647fa086</webElementGuid>
+      <webElementGuid>f9eb8580-f30f-4ce4-951a-6b1afa8805c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[1]</value>
-      <webElementGuid>6276a495-56ad-46d5-bcab-42ed76cc7f6d</webElementGuid>
+      <webElementGuid>b2adcdfd-6bd4-4207-b748-f002979fa7c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Struk'])[1]/following::a[2]</value>
-      <webElementGuid>58674428-e703-49eb-98cc-f7bd51e5caf5</webElementGuid>
+      <webElementGuid>c70f9462-16c2-44ae-89bc-3343129b25a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::a[3]</value>
-      <webElementGuid>e7e8bf71-9210-462c-9ae6-60623ade4cab</webElementGuid>
+      <webElementGuid>18ffb3aa-bbe8-4c8f-bfa8-5ad310775060</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::a[3]</value>
-      <webElementGuid>c62db027-132a-4cff-a93d-0a56737c7ff5</webElementGuid>
+      <webElementGuid>d048b88c-4919-42a1-b154-fba33accc2c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Register']/parent::*</value>
-      <webElementGuid>6c78bfbe-c22d-46da-bf45-e2c2490bfd89</webElementGuid>
+      <webElementGuid>4de4e86b-cea4-40ee-af1c-c660f0ee1012</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/account/register')]</value>
-      <webElementGuid>05a9ad2a-e073-4edf-930f-b98e34677c03</webElementGuid>
+      <webElementGuid>48c0f199-2722-4dc3-b7aa-b58983f854d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>8c32bed6-56e5-46b1-8344-f7cdf4e2aa12</webElementGuid>
+      <webElementGuid>efa00f3b-c662-49c0-8b44-d5871c538632</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,6 +140,6 @@
                     ' or . = '
                         Register
                     ')]</value>
-      <webElementGuid>493f592e-ea39-4998-9928-76f8ce5281d5</webElementGuid>
+      <webElementGuid>c644ddbb-3016-4d74-865c-f14fc5d2c0f5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

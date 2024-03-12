@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Deteksi</name>
+   <tag></tag>
+   <elementGuidId>9cb84563-bda3-47a4-9240-5965ed617459</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kenali'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b3d400fe-7ac9-4f30-915b-5025cb0c6759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary btn-block</value>
+      <webElementGuid>92e77be3-83a6-4378-b7f6-f757879c4405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deteksi</value>
+      <webElementGuid>7185de44-3132-4d66-a6bc-fcd0cd8d5260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;tools&quot;]/div[@class=&quot;pimcore_area_tool-list-col-two pimcore_area_content&quot;]/div[@class=&quot;tool-lists mb-4&quot;]/div[@class=&quot;tool-lists__wrapper&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-12 col-md-12 col-lg-11&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row justify-content-center items&quot;]/a[@class=&quot;tool-lists__card col-12 col-md-5&quot;]/div[@class=&quot;tool-lists__card-item row&quot;]/div[@class=&quot;tool-lists__card-description col-7 col-md-7 align-self-center p-0&quot;]/div[@class=&quot;tool-list__card-btn&quot;]/button[@class=&quot;btn-primary btn-block&quot;]</value>
+      <webElementGuid>383153a2-b296-4547-8bc7-91cd3067fdd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kenali'])[1]/following::button[1]</value>
+      <webElementGuid>7f30d04e-1418-44c2-a8d9-805a84f533a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Tahu Sekarang'])[1]/following::button[2]</value>
+      <webElementGuid>42cd1f52-9e1f-4dae-87a5-586776dbbc32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek Sekarang'])[1]/preceding::button[1]</value>
+      <webElementGuid>d1207533-9cdf-4810-96eb-0cb578fce640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cookies'])[1]/preceding::button[2]</value>
+      <webElementGuid>822ccf59-077c-4a0d-8935-6fddf54de329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Deteksi']/parent::*</value>
+      <webElementGuid>e5419e76-63b4-4177-9452-63a94c43eac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/div[2]/div[2]/button</value>
+      <webElementGuid>74133e39-814a-4a7c-ac8f-3398c7f9f05f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Deteksi' or . = 'Deteksi')]</value>
+      <webElementGuid>59d0a6f4-ba38-478a-b431-d9031e79faab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

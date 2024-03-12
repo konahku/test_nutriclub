@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9dd6aa0e-b37a-40ef-91ec-8bd9dd0d7035</webElementGuid>
+      <webElementGuid>415bc13e-01fd-4e6f-8703-ad33d5dc1320</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c1b041e6-d94e-4801-b469-8bc95329e310</webElementGuid>
+      <webElementGuid>287da1cf-b617-4085-af12-18a046ccab53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Fullname</value>
-      <webElementGuid>22aecf4f-74a5-4051-80d5-da5803be9c35</webElementGuid>
+      <webElementGuid>594018a2-9613-4705-a14f-600da5784a90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>id</name>
       <type>Main</type>
       <value>fullname</value>
-      <webElementGuid>ad4db026-8008-44da-b924-bb197a443513</webElementGuid>
+      <webElementGuid>0f744c7b-5c89-4382-98a1-5e509c952861</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control mb-4</value>
-      <webElementGuid>3e1e8e57-24d4-4d48-ad39-a6ea56e31e16</webElementGuid>
+      <value>form-control mb-2</value>
+      <webElementGuid>eb9570b8-a685-4760-a39a-4774958b6dd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Jawaban</value>
-      <webElementGuid>dfbfe947-6e8e-4237-b21c-336bb40b7f96</webElementGuid>
+      <webElementGuid>f2c15c83-c7bc-4116-be24-2b2e7b633a3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;fullname&quot;)</value>
-      <webElementGuid>0f68aa99-c039-4d91-b682-84ca640b5b52</webElementGuid>
+      <webElementGuid>f67dd21c-188b-499a-a816-401874379a6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='fullname']</value>
-      <webElementGuid>931abd65-57a2-4177-a839-20edd2078d12</webElementGuid>
+      <webElementGuid>54815fcf-080e-42aa-bae1-8bd3f57f6a5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/input[2]</value>
-      <webElementGuid>591655e2-6ec8-44c2-a1e3-3f6f2a7140cc</webElementGuid>
+      <webElementGuid>5f6215c4-9b73-4eb0-89b4-ceac4e4356e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'Fullname' and @id = 'fullname' and @placeholder = 'Jawaban']</value>
-      <webElementGuid>57ef3799-a2e9-446a-ab24-84d6db970221</webElementGuid>
+      <webElementGuid>d3fb1f12-43b4-45f0-99ac-76c773aa39ab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
