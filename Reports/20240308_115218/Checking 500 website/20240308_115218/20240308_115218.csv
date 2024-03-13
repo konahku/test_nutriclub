@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Checking 500 website,Chrome 122.0.0.0,,,2024-03-08 11:52:22,2024-03-08 11:52:41,19.257s,PASSED
+,,,,,,,
+Test Cases/Login Page 500,Chrome 122.0.0.0,,,2024-03-08 11:52:22,2024-03-08 11:52:41,18.889s,PASSED
+openBrowser(URL),Chrome 122.0.0.0,,,2024-03-08 11:52:23,2024-03-08 11:52:36,13.018s,PASSED
+"click(findTestObject(""Homepage/a_Login""))",Chrome 122.0.0.0,,,2024-03-08 11:52:36,2024-03-08 11:52:36,0.401s,PASSED
+"verifyTextPresent(""Kata Sandi"", false)",Chrome 122.0.0.0,,,2024-03-08 11:52:36,2024-03-08 11:52:40,3.670s,PASSED
+try,Chrome 122.0.0.0,,,2024-03-08 11:52:40,2024-03-08 11:52:40,0.127s,PASSED
+catch (org.openqa.selenium.WebDriverException e),Chrome 122.0.0.0,,,2024-03-08 11:52:40,2024-03-08 11:52:40,0.048s,PASSED
+Finally,Chrome 122.0.0.0,,,2024-03-08 11:52:40,2024-03-08 11:52:41,0.772s,PASSED

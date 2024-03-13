@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Kata Sandi_password</name>
+   <name>input_Password_member_password</name>
    <tag></tag>
    <elementGuidId>b6781036-1ca8-4fff-a0e3-bc30ea5e4e47</elementGuidId>
    <selectorCollection>
@@ -22,15 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ec7c93c1-5924-4cf3-9dce-a10b577138c5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>0</name>
-      <type>Main</type>
-      <value>required</value>
-      <webElementGuid>80c7fdcf-daac-4682-9433-0f16f80d1073</webElementGuid>
+      <webElementGuid>752f3763-ffb8-4707-9a16-cc219a43e9d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>18f39c02-f599-4487-baef-959c8259dd09</webElementGuid>
+      <webElementGuid>65f69913-6c14-4bc7-a0e5-98dae1d3e68a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>member_password</value>
+      <webElementGuid>85c59c42-0849-4f20-9fc2-08f7befd6e13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,47 +46,23 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>099a399d-a4e0-49c6-ab15-1a3045750aa4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>41d7cf16-6c3a-4f16-adb6-e70526aae8f3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>required</name>
-      <type>Main</type>
-      <value>required</value>
-      <webElementGuid>2b0bae3a-2ce3-4d0b-958e-f63501cddb47</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>7c135254-948a-495d-8759-12b9f477c889</webElementGuid>
+      <webElementGuid>a3c7b0c3-9f84-41d1-8a9f-fb5da0df49d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>password form-control</value>
-      <webElementGuid>2f72a6fe-74d9-4bb0-bd3c-379264ec2d0a</webElementGuid>
+      <value>form-control error-border</value>
+      <webElementGuid>5fe1bfed-c4ca-479b-a357-eecdc7c75656</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Masukkan Kata Sandi</value>
-      <webElementGuid>227f970e-3009-4874-bae0-7408cfc8d4f4</webElementGuid>
+      <value>Password</value>
+      <webElementGuid>6654107c-99ea-477b-97f2-0ff52cd65d1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>0118f72d-31ad-4660-b724-f5a3751ccaa3</webElementGuid>
+      <webElementGuid>c54aad0d-6ff6-4964-97be-c0f9a3edef9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,30 +78,22 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>7d01e16e-5fb2-4a35-8495-c17943b9de59</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='step-4']/div/div/div[2]/div/div[2]/div[2]/input</value>
-      <webElementGuid>45fbec1a-062b-4e5c-87a4-4a74949d7a3b</webElementGuid>
+      <webElementGuid>04663f6f-4d75-48a3-a8ad-198c06bcc273</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>523224df-0ef5-4387-bc3f-cf2272476c91</webElementGuid>
+      <value>//div[3]/div/input</value>
+      <webElementGuid>caafd854-5aa8-40e7-a2d8-c0e47d941478</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'password' and @name = 'password' and @placeholder = 'Masukkan Kata Sandi']</value>
-      <webElementGuid>b67cc973-d383-42c0-b6dc-ac3d7176c4d1</webElementGuid>
+      <value>//input[@type = 'password' and @name = 'member_password' and @id = 'password' and @placeholder = 'Password']</value>
+      <webElementGuid>a2b479e1-b016-4451-9946-7e809d027c67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -17,5 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://nutriclub.eydendigital.co.id')
+WebUI.openBrowser(GlobalVariable.URL)
+
+WebUI.click(findTestObject('a_Artikel'))
+
+WebUI.verifyLinksAccessible([])
+
+WebUI.click(findTestObject('a_Produk'))
+
+WebUI.verifyLinksAccessible([])
+
+WebUI.click(findTestObject('a_Tools'))
+
+WebUI.verifyLinksAccessible([])
+
+WebUI.click(findTestObject('a_Nutriclub'))
+
+WebUI.verifyLinksAccessible([])
+
+WebUI.navigateToUrl('https://www.nutriclub.co.id/account/login')
+
+WebUI.setText(findTestObject('Login/input_No Handphone_username'), GlobalVariable.NumberPhone)
+
+WebUI.setEncryptedText(findTestObject('Login/input_Password_member_password'), GlobalVariable.Password)
+
+WebUI.verifyAllLinksOnCurrentPageAccessible(false, [])
+
+WebUI.navigateToUrl('https://www.nutriclub.co.id/account/register')
+
+WebUI.setText(findTestObject('Register - Nutriclub/input_Nama Lengkap_Fullname'), 'aziza')
 

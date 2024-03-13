@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kata Sandi_input-group-text</name>
+   <tag></tag>
+   <elementGuidId>2bcfaf4b-fb8e-40ab-9371-85351131ceb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.input-group-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-4']/div/div/div[2]/div/div[3]/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bae370b-aa77-4514-8c5b-6e7ddd779248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-text</value>
+      <webElementGuid>f323f813-cb2d-41f3-bd43-6440750307cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-4&quot;)/div[@class=&quot;row login__wrapper&quot;]/div[@class=&quot;col-10 offset-1 col-lg-10 offset-lg-2&quot;]/div[@class=&quot;content__card rounded&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8 offset-md-2&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;showpassword input-group-append&quot;]/span[@class=&quot;input-group-text&quot;]</value>
+      <webElementGuid>66d488a6-901a-410e-aa24-96d8939bb193</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-4']/div/div/div[2]/div/div[3]/div[2]/div/span</value>
+      <webElementGuid>66393a95-bbe0-448c-a5f4-439e4f946f54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::span[1]</value>
+      <webElementGuid>c86fb53e-15d4-4d2d-9463-a913ea767305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::span[1]</value>
+      <webElementGuid>1a776581-cc50-4f0b-84ab-bb708249c295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi'])[1]/preceding::span[1]</value>
+      <webElementGuid>c3f03bd7-d206-46db-b76d-0f07e7816d84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::span[1]</value>
+      <webElementGuid>6a045510-9660-4170-863f-8af80aa5af8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/span</value>
+      <webElementGuid>15da6b2b-4121-4fca-b7da-51ab54300e49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

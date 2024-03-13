@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Checkbox</name>
+   <name>input_Tanggal Lahir Anak_dp1710224930430</name>
    <tag></tag>
-   <elementGuidId>01cae477-b017-4e94-a39c-aa26e06f228d</elementGuidId>
+   <elementGuidId>949aedaf-5a2e-4376-ac9d-62acbebd18de</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='agreementPrivacy']</value>
+         <key>CSS</key>
+         <value>#dp1710224930430</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#agreementPrivacy</value>
+         <key>XPATH</key>
+         <value>//input[@id='dp1710224930430']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>00585c47-0846-403d-89d0-c4d09425c9b5</webElementGuid>
+      <webElementGuid>fa90c54e-a50c-41d2-97da-5cd0306908d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>fbb534d8-8eca-4654-83b0-38380cb433ae</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>Agreement</value>
-      <webElementGuid>17b7437e-7389-4abe-8ce5-06fa8605b113</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>agreementPrivacy</value>
-      <webElementGuid>44264531-0f48-4958-b6f3-e47916911214</webElementGuid>
+      <value>text</value>
+      <webElementGuid>474ffdf3-fc06-4332-9d6e-b6948078740f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-check-input p-0</value>
-      <webElementGuid>b96d064b-b53c-4287-a9c8-96f4e2828943</webElementGuid>
+      <value>form-control childBirthday mb-2 hasDatepicker</value>
+      <webElementGuid>6f65f540-d5d6-4c53-aabd-13e5a102c10f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Jawaban</value>
+      <webElementGuid>17e53f26-ddd6-457e-b0c3-eeedb0eacc7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dp1710224930430</value>
+      <webElementGuid>d4418b5e-d479-47bd-ab43-c7b2a0e80e7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;agreementPrivacy&quot;)</value>
-      <webElementGuid>bc381d1a-e1e7-4e13-b9e2-d74d48b91c4f</webElementGuid>
+      <value>id(&quot;dp1710224930430&quot;)</value>
+      <webElementGuid>d21ab914-8232-46f4-b5d4-0c0303640488</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='agreementPrivacy']</value>
-      <webElementGuid>fac76676-9524-471c-bf36-f3bf7a932150</webElementGuid>
+      <value>//input[@id='dp1710224930430']</value>
+      <webElementGuid>f0739304-bcc8-4c52-aa09-142289424b12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='childDetailsWrapper']/div/div/div/input</value>
+      <webElementGuid>cbca950f-cda7-460c-b9e8-d484bb28ae80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div/div/input</value>
-      <webElementGuid>b5172cc6-73ef-4a67-9637-824e63fec23e</webElementGuid>
+      <value>//div[5]/div[2]/div/div/div/input</value>
+      <webElementGuid>b75e0d89-9925-4e4a-94bd-12d972490fbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'checkbox' and @name = 'Agreement' and @id = 'agreementPrivacy']</value>
-      <webElementGuid>36eadd17-1aec-4217-80db-aba7b1cc5081</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Jawaban' and @id = 'dp1710224930430']</value>
+      <webElementGuid>0fcfea2b-2585-4a92-84ff-2b37528d0019</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

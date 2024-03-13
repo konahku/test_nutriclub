@@ -16,25 +16,45 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.By as By
+import org.openqa.selenium.WebElement as WebElement
 
-// Daftar angka dalam bentuk huruf
-def numberWords = ["", "satu", "dua", "tiga", "empat", "lima", "enam", "tujuh", "delapan", "sembilan", "sepuluh", "sebelas", "dua belas", "tiga belas", "empat belas", "lima belas", "enam belas", "tujuh belas", "delapan belas", "sembilan belas", "dua puluh", "dua puluh satu", "dua puluh dua", "dua puluh tiga", "dua puluh empat", "dua puluh lima", "dua puluh enam", "dua puluh tujuh", "dua puluh delapan", "dua puluh sembilan", "tiga puluh"]
+// List of URLs
+List<String> urlList = ["https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/weaning-with-love-menyapih-dengan-cinta",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/info-daycare-dan-tips-mencari-pengasuh-infal",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/persiapan-dana-darurat-anak",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/anak-susah-makan-apa-yang-harus-dilakukan",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/mendidik-anak-siap-menghadapi-era-vuca",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/mengasah-kreativitas-balita",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/pendidikan-anak-usia-dini",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/kendalikan-tantrum-di-waktu-makan-balita",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/memperkenalkan-si-kecil-dengan-kakaknya",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/cara-menidurkan-anak-setelah-disapih",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/ajari-balita-menyikat-gigi",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/aktivitas-fisik-untuk-menunjang-kesehatan-dan-kecerdasan-anak",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/kemampuan-pemecahan-masalah",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/ketahui-bakat-terpendam-balita",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/melatih-kecerdasan-anak-2-tahun",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/metode-sukses-potty-training-balita",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/permainan-dalam-ruangan-yang-seru",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/sensory-play",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/usia-anak-2-tahun",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/yuk-buat-mainan-edukasi-bersama-si-kecil",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/mainan-edukasi-anak-2-tahun",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/eksperimen-sains-sederhana-anak",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/steam-education-anak",
+"https://www.nutriclub.co.id/artikel/pola-asuh-anak/2-tahun/cara-menyapih-anak",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/kecerdasan-interpersonal",
+"https://www.nutriclub.co.id/artikel/stimulasi/2-tahun/decision-making-anak"]
 
-// Jumlah kali yang ingin diulang (35 kali)
-def totalIterations = 35
+// Open the first URL in the main browser window
+WebUI.openBrowser(urlList[0])
 
-// Kata yang akan digunakan sebelum angka
-def prefix = "zizah"
-
-// Inisialisasi StringBuilder untuk menampung hasil
-def resultBuilder = new StringBuilder()
-
-// Loop untuk menghasilkan pola
-for (int i = 1; i <= totalIterations; i++) {
-	def numberWord = numberWords[i]
-	def result = "${prefix} ${numberWord}"
-	resultBuilder.append(result).append('\n')
+// Iterate through the remaining URLs and open them in new tabs using JavaScript
+for (int i = 1; i < urlList.size(); i++) {
+	String url = urlList[i]
+	
+	// JavaScript to open a new tab
+	String script = "window.open('$url', '_blank');"
+	WebUI.executeJavaScript(script, null)
 }
-
-// Tampilkan hasil di log Katalon Studio
-println(resultBuilder.toString())

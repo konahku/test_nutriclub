@@ -37,12 +37,16 @@ WebUI.setEncryptedText(findTestObject('Register Nutri/input_Password_member_pass
 
 WebUI.setEncryptedText(findTestObject('Register Nutri/input_Konfirmasi Password_ConfirmPassword'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
+<<<<<<< HEAD
 //WebUI.click(findTestObject('Register Nutri/kondisi belum hamil'))
 WebUI.click(findTestObject('Object Repository/Register Nutri/label_Tidak Hamil dan Mempunyai Anak'))
 
 WebUI.click(findTestObject('Register Nutri/input_Tanggal Lahir Anak_isRefferalCodeEventCode')) //WebUI.click(findTestObject('Register Nutri/button_DAFTAR'))
 
 //WebUI.setText(findTestObject('Register Nutri/input_Kode Referal (opsional)_refferalCodeEventCode'), 'BEL72373')
+=======
+WebUI.click(findTestObject('Register Nutri/div_Ya Hapus_registration__image text-center'))
+>>>>>>> branch 'zizah' of https://github.com/zizahku/test_nutriclub.git
 
 WebUI.click(findTestObject('Register Nutri/checked sk'))
 

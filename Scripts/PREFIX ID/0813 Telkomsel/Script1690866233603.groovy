@@ -33,7 +33,7 @@ WebUI.setEncryptedText(findTestObject('Register Nutri/input_Password_member_pass
 
 WebUI.setEncryptedText(findTestObject('Register Nutri/input_Konfirmasi Password_ConfirmPassword'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
-WebUI.click(findTestObject('Register Nutri/kondisi belum hamil'))
+WebUI.click(findTestObject('Register Nutri/div_Ya Hapus_registration__image text-center'))
 
 WebUI.click(findTestObject('Register Nutri/checked sk'))
 

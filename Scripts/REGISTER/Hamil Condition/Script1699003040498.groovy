@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Homepage/a_Register'))
 //WebUI.click(findTestObject('Register - Nutriclub/button_Saya Setuju'))
 WebUI.setText(findTestObject('Register - Nutriclub/input_Nama Lengkap_Fullname'), 'zeezah testing')
 
-WebUI.setText(findTestObject('Register - Nutriclub/input_No. Handphone (Terhubung Whatsapp)_member_mobilephone'), '085784018007')
+WebUI.setText(findTestObject('Register - Nutriclub/input_No. Handphone (Terhubung Whatsapp)_me_41b392'), '085784018007')
 
 WebUI.setEncryptedText(findTestObject('Register - Nutriclub/input_Password_member_password'), 'iFGeFYmXIrUhQZHvW7P22w==')
 
@@ -37,9 +37,9 @@ WebUI.click(findTestObject('Register - Nutriclub/li_Sedang Hamil'))
 
 WebUI.setText(findTestObject('Register - Nutriclub/Usia Kehamilan (Minggu)'), '12')
 
-WebUI.waitForElementClickable(findTestObject('Register - Nutriclub/Checkbox'), 10)
+WebUI.waitForElementClickable(findTestObject('Register - Nutriclub/input_Kode Refereal  Kode Event (opsional)__58c8d2'), 10)
 
-WebUI.check(findTestObject('Register - Nutriclub/Checkbox'))
+WebUI.check(findTestObject('Register - Nutriclub/input_Kode Refereal  Kode Event (opsional)__58c8d2'))
 
 WebUI.click(findTestObject('Register - Nutriclub/button_DAFTAR'))
 
