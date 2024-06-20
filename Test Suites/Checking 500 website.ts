@@ -12,10 +12,10 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>9cc8326f-da00-4775-9bf3-1a77f31f8964</testSuiteGuid>
    <testCaseLink>
-      <guid>a0cd909e-5d7a-40ea-99ef-a669462a1082</guid>
+      <guid>52ef5de9-40ff-436c-be70-35ca40dbaec2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Checking error 500 Nutri/Login Page 500</testCaseId>
+      <testCaseId>Test Cases/Checking all website</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
